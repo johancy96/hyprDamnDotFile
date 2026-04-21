@@ -1,0 +1,52 @@
+@keyframes pulse {
+    0% { 
+        border-color: alpha({{colors.surface.default.hex}}, 0.8); 
+        box-shadow: 0 0 2px alpha({{colors.primary.default.hex}}, 0.1);
+    }
+    50% { 
+        border-color: {{colors.primary.default.hex}}; 
+        box-shadow: 0 0 15px alpha({{colors.primary.default.hex}}, 0.6);
+    }
+    100% { 
+        border-color: alpha({{colors.surface.default.hex}}, 0.8); 
+        box-shadow: 0 0 2px alpha({{colors.primary.default.hex}}, 0.1);
+    }
+}
+
+window {
+    margin: 0px;
+    border: 3px solid {{colors.primary.default.hex}};
+    background-color: alpha({{colors.surface.default.hex}}, 0.7);
+    border-radius: 15px;
+    font-family: "JetBrainsMono Nerd Font", "Inter", sans-serif;
+    animation: pulse 4s ease-in-out infinite;
+}
+
+#outer-box {
+    margin: 30px;
+}
+
+#input {
+    margin: 10px;
+    border: 1px solid {{colors.secondary.default.hex}};
+    color: {{colors.primary.default.hex}};
+    background-color: alpha({{colors.secondary.default.hex}}, 0.1);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#text {
+    margin: 5px;
+    border: none;
+    color: {{colors.primary.default.hex}};
+}
+
+#entry:selected {
+    background-color: {{colors.primary.default.hex}};
+    border-radius: 10px;
+}
+
+#entry:selected #text {
+    color: {{colors.surface.default.hex}};
+    font-weight: bold;
+}

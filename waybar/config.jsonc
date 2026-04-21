@@ -1,0 +1,156 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 40,
+    "exclusive": true,
+    "passthrough": false,
+    "gtk-layer-shell": true,
+    "modules-left": [
+        "hyprland/workspaces",
+        "hyprland/language",
+        "hyprland/window"
+    ],
+
+    "hyprland/language": {
+        "format": " {}",
+        "format-en": "us",
+        "format-es": "es",
+        "min-length": 5,
+        "tooltip": false
+    },
+    "modules-center": [
+        "custom/sunset",
+        "clock",
+        "custom/waypaper"
+    ],
+    "modules-right": [
+        "tray",
+        "custom/notifications",
+        "custom/clipman",
+        "custom/gpu",
+        "cpu",
+        "temperature",
+        "memory",
+        "power-profiles-daemon",
+        "network",
+        "pulseaudio"
+    ],
+    "hyprland/workspaces": {
+        "disable-scroll": true,
+        "all-outputs": true,
+        "on-click": "activate",
+        "format": "{name}",
+        "persistent-workspaces": {
+            "*": 5
+        },
+        "format-icons": {
+            "default": "󰄰",
+            "active": "󰄯",
+            "urgent": "󰀦"
+        }
+    },
+    "hyprland/window": {
+        "format": "󱂬 {title}",
+        "max-length": 40,
+        "separate-outputs": true
+    },
+    "clock": {
+        "format": "{:%I:%M %p}",
+        "format-alt": "󰃭 {:%a %d %b}",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+    },
+    "cpu": {
+        "interval": 10,
+        "format": "󰻠 {usage}%",
+        "max-length": 10
+    },
+    "temperature": {
+        "thermal-zone": 2,
+        "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
+        "critical-threshold": 80,
+        "format-critical": "{temperatureC}°C ",
+        "format": "{temperatureC}°C "
+    },
+    "memory": {
+        "interval": 30,
+        "format": "󰍛 {percentage}%",
+        "format-alt": "󰍛 {used:0.1f}G",
+        "max-length": 10
+    },
+    "custom/gpu": {
+        "exec": "~/.config/waybar/scripts/gpu_info.sh",
+        "return-type": "json",
+        "format": "󰾲 {}",
+        "interval": 10,
+        "tooltip": true
+    },
+    "power-profiles-daemon": {
+        "format": "{icon}",
+        "tooltip-format": "Power profile: {profile}\nDriver: {driver}",
+        "tooltip": true,
+        "format-icons": {
+            "default": "",
+            "performance": "",
+            "balanced": "",
+            "power-saver": ""
+        }
+    },
+    "network": {
+        "format-wifi": "  {essid}",
+        "format-ethernet": "󰈀 {ifname}",
+        "format-linked": "󰈀 {ifname} (No IP)",
+        "format-disconnected": "󰖪 Disconnected",
+        "tooltip-format-wifi": "Signal Strength: {signalStrength}%",
+        "on-click": "nm-connection-editor"
+    },
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-muted": "󰝟 Muted",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "on-click": "pavucontrol"
+    },
+    "custom/waypaper": {
+        "format": "󰸉",
+        "on-click": "waypaper",
+        "tooltip": true,
+        "tooltip-format": "Change Wallpaper"
+    },
+    "custom/notifications": {
+        "format": "{}",
+        "exec": "~/.config/wofi/scripts/notifications.sh",
+        "return-type": "json",
+        "interval": 2,
+        "on-click": "~/.config/wofi/scripts/notifications.sh list",
+        "on-click-right": "~/.config/wofi/scripts/notifications.sh clear",
+        "on-click-middle": "dunstctl set-paused toggle"
+    },
+    "custom/clipman": {
+        "format": "󰅌",
+        "on-click": "nwg-clipman",
+        "tooltip": true,
+        "tooltip-format": "Clipboard Manager"
+    },
+    "tray": {
+        "icon-size": 18,
+        "spacing": 10
+    },
+    "custom/sunset": {
+        "format": "{}",
+        "exec": "~/.config/waybar/scripts/sunset.sh",
+        "return-type": "json",
+        "interval": 5,
+        "tooltip": true
+    }
+}

@@ -1,0 +1,44 @@
+@keyframes pulse {
+    0% { 
+        border-color: alpha({{colors.surface.default.hex}}, 0.8); 
+        box-shadow: 0 0 2px alpha({{colors.primary.default.hex}}, 0.1);
+    }
+    50% { 
+        border-color: {{colors.primary.default.hex}}; 
+        box-shadow: 0 0 15px alpha({{colors.primary.default.hex}}, 0.6);
+    }
+    100% { 
+        border-color: alpha({{colors.surface.default.hex}}, 0.8); 
+        box-shadow: 0 0 2px alpha({{colors.primary.default.hex}}, 0.1);
+    }
+}
+
+window {
+    margin: 0px;
+    border: none;
+    background-color: transparent;
+}
+
+#text {
+    color: {{colors.primary.default.hex}};
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#entry {
+    margin: 15px;
+    padding: 65px 0px 65px 60px;
+    border-radius: 20px;
+    background-color: alpha({{colors.surface.default.hex}}, 0.7);
+    border: 3px solid {{colors.primary.default.hex}};
+    animation: pulse 4s ease-in-out infinite;
+}
+
+#entry:selected {
+    background-color: {{colors.primary.default.hex}};
+    border: 3px solid {{colors.primary.default.hex}};
+}
+
+#entry:selected #text {
+    color: {{colors.surface.default.hex}};
+}

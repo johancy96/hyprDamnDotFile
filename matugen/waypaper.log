@@ -1,0 +1,22 @@
+--- Ejecución de Post-Command: lun 20 abr 2026 05:14:40 -04 ---
+Wallpaper recibido: '/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (3).jpg'
+ERROR: No se encontró el archivo de imagen: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (3).jpg
+Ejecutando refresh.sh...
+[2026-04-20 05:14:40.122] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-04-20 05:14:40.139] [info] Loading persistent workspaces from Hyprland workspace rules
+MESSAGE: Setting 'height' has changed behaviour after dunst 1.12.0, see https://dunst-project.org/release/#v1.12.0.
+MESSAGE: Legacy height support may be dropped in the future. If you want to hide this message transition to
+MESSAGE: 'height = (0, X)' for dynamic height (old behaviour equivalent) or to 'height = (X, X)' for a fixed height.
+MESSAGE: Using legacy offset syntax NxN, you should switch to the new syntax (N, N)
+[2026-04-20 05:14:40.213] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-04-20 05:14:40.216] [info] Discovered appearance 'dark'
+ok
+Fin de ejecución.
+[2026-04-20 05:14:40.231] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-04-20 05:14:40.237] [info] Hyprland IPC starting
+[2026-04-20 05:14:40.237] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-04-20 05:14:40.374] [info] Bar configured (width: 1920, height: 40) for output: DP-1
+[2026-04-20 05:14:49.805] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-04-20 05:14:49.823] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-04-20 05:14:49.824] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-04-20 05:14:49.824] [info] Loading persistent workspaces from Hyprland workspace rules

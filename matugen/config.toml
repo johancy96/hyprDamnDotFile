@@ -1,0 +1,13 @@
+[config]
+default_mode = "dark"
+post_command = "~/.config/matugen/scripts/refresh.sh"
+
+[templates]
+hyprland = { input_path = "~/.config/matugen/templates/hyprland/colors.conf", output_path = "~/.config/hypr/colors.conf" }
+waybar = { input_path = "~/.config/matugen/templates/waybar/style.css", output_path = "~/.config/waybar/style.css" }
+wofi = { input_path = "~/.config/matugen/templates/wofi/style.css", output_path = "~/.config/wofi/style.css" }
+wofi_powermenu = { input_path = "~/.config/matugen/templates/wofi/powermenu.css", output_path = "~/.config/wofi/powermenu.css" }
+wofi_notifications = { input_path = "~/.config/matugen/templates/wofi/notifications.css", output_path = "~/.config/wofi/notifications.css" }
+kitty = { input_path = "~/.config/matugen/templates/kitty/colors.conf", output_path = "~/.config/kitty/colors.conf" }
+dunst = { input_path = "~/.config/matugen/templates/dunst/dunstrc", output_path = "~/.config/dunst/dunstrc" }
+btop = { input_path = "~/.config/matugen/templates/btop/matugen.theme", output_path = "~/.config/btop/themes/matugen.theme" }

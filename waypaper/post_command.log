@@ -1,0 +1,12 @@
+--- Cambio de Wallpaper: lun 20 abr 2026 05:17:14 -04 ---
+Wallpaper seleccionado: 
+Ruta vacía o no encontrada, buscando en config.ini...
+Ruta final: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (4).jpg
+Ejecutando Matugen...
+Llamando a refresh.sh...
+MESSAGE: Setting 'height' has changed behaviour after dunst 1.12.0, see https://dunst-project.org/release/#v1.12.0.
+MESSAGE: Legacy height support may be dropped in the future. If you want to hide this message transition to
+MESSAGE: 'height = (0, X)' for dynamic height (old behaviour equivalent) or to 'height = (X, X)' for a fixed height.
+MESSAGE: Using legacy offset syntax NxN, you should switch to the new syntax (N, N)
+ok
+Proceso finalizado.

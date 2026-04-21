@@ -1,0 +1,54 @@
+@keyframes pulse {
+    0% { 
+        border-color: alpha(#0f1415, 0.8); 
+        box-shadow: 0 0 2px alpha(#79ddeb, 0.1);
+    }
+    50% { 
+        border-color: #79ddeb; 
+        box-shadow: 0 0 15px alpha(#79ddeb, 0.6);
+    }
+    100% { 
+        border-color: alpha(#0f1415, 0.8); 
+        box-shadow: 0 0 2px alpha(#79ddeb, 0.1);
+    }
+}
+
+window {
+    margin: 0px;
+    padding: 20px;
+    border: 3px solid #79ddeb;
+    background-color: alpha(#0f1415, 0.7);
+    border-radius: 20px;
+    font-family: "JetBrainsMono Nerd Font", "Inter", sans-serif;
+    animation: pulse 4s ease-in-out infinite;
+}
+
+#outer-box {
+    margin: 10px;
+}
+
+#input {
+    margin: 10px;
+    border: 1px solid #a8cdd3;
+    color: #79ddeb;
+    background-color: alpha(#a8cdd3, 0.1);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#text {
+    margin: 5px;
+    border: none;
+    color: #79ddeb;
+    font-size: 14px;
+}
+
+#entry:selected {
+    background-color: #79ddeb;
+    border-radius: 10px;
+}
+
+#entry:selected #text {
+    color: #0f1415;
+    font-weight: bold;
+}

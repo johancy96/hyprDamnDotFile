@@ -1,0 +1,106 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "JetBrainsMono Nerd Font", "Inter", sans-serif;
+    font-size: 14px;
+    min-height: 0;
+}
+
+@keyframes pulse {
+    0% { 
+        background-color: alpha(#0f1415, 0.0); 
+        color: #79ddeb;
+        box-shadow: none;
+    }
+    50% { 
+        background-color: #79ddeb; 
+        color: #0f1415;
+        box-shadow: 0 0 10px alpha(#79ddeb, 0.5);
+    }
+    100% { 
+        background-color: alpha(#0f1415, 0.0); 
+        color: #79ddeb;
+        box-shadow: none;
+    }
+}
+
+window#waybar {
+    background-color: transparent;
+    border-bottom: none;
+    color: #79ddeb;
+}
+
+#workspaces {
+    background-color: alpha(#0f1415, 0.7);
+    margin: 5px;
+    margin-left: 10px;
+    border-radius: 12px;
+    border-bottom: 2px solid #79ddeb;
+}
+
+#workspaces button {
+    padding: 0;
+    margin: 3px 5px;
+    min-width: 28px;
+    min-height: 28px;
+    color: #79ddeb;
+    background-color: transparent;
+    border-radius: 50%;
+    /* Transición suave e igual a la lógica de la animación */
+    transition: all 0.8s ease-in-out;
+    background-image: none;
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
+
+#workspaces button.active {
+    animation: pulse 4s ease-in-out infinite;
+}
+
+#workspaces button:not(.active):hover {
+    background-color: #79ddeb; 
+    color: #0f1415;
+    box-shadow: 0 0 10px alpha(#79ddeb, 0.5);
+    background-image: none;
+    border: none;
+    outline: none;
+}
+
+
+#window, #clock, #tray, #pulseaudio, #network, #power-profiles-daemon, #custom-gpu, #cpu, #memory, #temperature, #custom-waypaper, #custom-clipman, #custom-notifications, #language {
+    background-color: alpha(#0f1415, 0.7);
+    border-bottom: 2px solid #79ddeb;
+    margin: 5px;
+    padding: 0 15px;
+    border-radius: 12px;
+    color: #79ddeb;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+#custom-sunset {
+    background-color: alpha(#0f1415, 0.7);
+    margin: 5px;
+    padding: 0;
+    border-radius: 50%;
+    color: #79ddeb;
+    font-weight: bold;
+    min-width: 35px;
+    border-bottom: 2px solid #79ddeb;
+}
+
+#custom-sunset.night {
+    color: #a8cdd3;
+    border-bottom: 2px solid #a8cdd3;
+}
+
+tooltip {
+    background: #0f1415;
+    border: 1px solid #79ddeb;
+    border-radius: 10px;
+}
+
+tooltip label {
+    color: #dfe3e4;
+}
