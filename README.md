@@ -78,3 +78,4 @@ El script detectará automáticamente todas las carpetas del proyecto, gestionar
 ---
 > [!TIP]
 > Este proyecto está diseñado para ser visualmente impactante. Se recomienda usar fuentes modernas como **Inter** o **JetBrainsMono Nerd Font** para la mejor experiencia.
+# hyprDamnDotFile
