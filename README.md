@@ -59,21 +59,18 @@ Si prefieres instalar todo con un solo comando dependiendo de tu shell:
 
 **Bash:**
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/USUARIO/hyprDamnDotFile/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/johancy96/hyprDamnDotFile/main/install.sh)"
 ```
 
 **Zsh:**
 ```zsh
-zsh -c "$(curl -fsSL https://raw.githubusercontent.com/USUARIO/hyprDamnDotFile/main/install.sh)"
+zsh -c "$(curl -fsSL https://raw.githubusercontent.com/johancy96/hyprDamnDotFile/main/install.sh)"
 ```
 
 **Fish:**
 ```fish
-curl -fsSL https://raw.githubusercontent.com/USUARIO/hyprDamnDotFile/main/install.sh | fish
+curl -fsSL https://raw.githubusercontent.com/johancy96/hyprDamnDotFile/main/install.sh | fish
 ```
-
-> [!IMPORTANT]
-> Sustituye `USUARIO` por tu nombre de usuario de GitHub.
 
 El script detectará automáticamente todas las carpetas del proyecto, gestionará las dependencias según tu SO, creará copias de seguridad de tus configuraciones existentes y las instalará en `~/.config/`.
 
