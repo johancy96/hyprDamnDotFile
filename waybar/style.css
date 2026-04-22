@@ -96,11 +96,14 @@ window#waybar {
 }
 
 tooltip {
-    background: #0f1415;
+    background-color: alpha(#0f1415, 0.8);
     border: 1px solid #79ddeb;
-    border-radius: 10px;
+    border-radius: 12px;
+    padding: 10px;
 }
 
 tooltip label {
-    color: #dfe3e4;
+    color: #79ddeb;
+    font-size: 13px;
+    padding: 5px;
 }
