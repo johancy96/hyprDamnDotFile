@@ -57,21 +57,35 @@ Para que los iconos y símbolos se vean correctamente, es necesario instalar las
 
 ## 🚀 Instalación
 
-Para instalar este entorno, sigue estos pasos:
+> [!IMPORTANT]
+> **Este script de instalación solo copia los archivos de configuración (`dotfiles`)**. La gestión de paquetes y la instalación de las dependencias listadas anteriormente deben ser realizadas manualmente por el usuario según su distribución de Linux.
+
+### Instalación Rápida (One-liner)
+
+Puedes instalar todas las configuraciones con un solo comando dependiendo de tu shell:
+
+**Bash / Zsh:**
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/johancy96/hyprDamnDotFile/main/install.sh)"
+```
+
+**Fish:**
+```fish
+curl -fsSL https://raw.githubusercontent.com/johancy96/hyprDamnDotFile/main/install.sh | bash
+```
+
+### Instalación Manual
+
+Si prefieres hacerlo paso a paso:
 
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/johancy96/hyprDamnDotFile.git
    ```
 
-2. **Entrar al directorio:**
+2. **Copiar las carpetas de configuración:**
    ```bash
    cd hyprDamnDotFile
-   ```
-
-3. **Copiar las carpetas de configuración:**
-   Copia las carpetas a tu directorio `~/.config/`. Se recomienda hacer una copia de seguridad de tus archivos existentes antes de proceder.
-   ```bash
    cp -r btop fastfetch hypr kitty matugen waybar waypaper wofi ~/.config/
    ```
 
