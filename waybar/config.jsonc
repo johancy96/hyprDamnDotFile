@@ -12,9 +12,7 @@
     ],
 
     "hyprland/language": {
-        "format": " {}",
-        "format-en": "us",
-        "format-es": "es",
+        "format": " {short}",
         "min-length": 5,
         "tooltip": false
     },

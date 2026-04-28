@@ -2,7 +2,7 @@
 
 # Log de salida para depuración
 LOG="$HOME/.config/matugen/refresh.log"
-echo "--- Refresco Global: $(date) ---" > $LOG
+echo "--- Refresco Global: $(date) ---" >> $LOG
 
 # Recargar configuración de Hyprland
 hyprctl reload >> $LOG 2>&1

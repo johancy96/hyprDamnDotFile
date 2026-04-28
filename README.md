@@ -21,15 +21,17 @@ Para que este entorno funcione correctamente, asegúrate de tener instalados los
 - `adw-gtk3-theme`: Tema GTK compatible con Libadwaita.
 - `papirus-icon-theme`: Pack de iconos premium.
 - `waypaper`: Frontend para la gestión de fondos de pantalla.
-- `swww`: Wallpaper daemon eficiente para Wayland.
+- `hyprpaper`: Wallpaper daemon ligero y oficial de Hyprland.
 - `hyprsunset`: Control de luz nocturna (filtro de luz azul).
 
 ### 🛠️ Componentes del Sistema
 - `waybar`: Barra de estado altamente personalizable.
 - `wofi`: Lanzador de aplicaciones y menús dinámicos.
 - `dunst`: Demonio de notificaciones ligero.
+- `libnotify`: Biblioteca y utilidades para enviar notificaciones (`notify-send`).
 - `pavucontrol`: Control de volumen por software.
 - `power-profiles-daemon`: Gestión de perfiles de energía (ahorro, balanceado, rendimiento).
+- `xdg-desktop-portal-gtk`: Portal de escritorio para integración con aplicaciones GTK.
 
 ### ⌨️ Utilidades y Portapapeles
 - `kitty`: Emulador de terminal rápido y basado en GPU.
@@ -37,6 +39,8 @@ Para que este entorno funcione correctamente, asegúrate de tener instalados los
 - `cliphist`: Historial del portapapeles.
 - `nwg-clipman`: Gestor visual del portapapeles.
 - `wl-clipboard`: Utilidades para el portapapeles en Wayland.
+- `jq`: Procesador de JSON en línea de comandos (usado en scripts).
+- `imagemagick`: Herramientas de manipulación de imágenes.
 
 ### 🔡 Fuentes (Obligatorias)
 Para que los iconos y símbolos se vean correctamente, es necesario instalar las siguientes fuentes:

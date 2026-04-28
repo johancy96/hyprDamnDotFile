@@ -1,15 +1,15 @@
 @keyframes pulse {
     0% { 
-        border-color: alpha(#0f1415, 0.8); 
-        box-shadow: 0 0 2px alpha(#79ddeb, 0.1);
+        border-color: alpha(#101415, 0.8); 
+        box-shadow: 0 0 2px alpha(#76d4e4, 0.1);
     }
     50% { 
-        border-color: #79ddeb; 
-        box-shadow: 0 0 15px alpha(#79ddeb, 0.6);
+        border-color: #76d4e4; 
+        box-shadow: 0 0 15px alpha(#76d4e4, 0.6);
     }
     100% { 
-        border-color: alpha(#0f1415, 0.8); 
-        box-shadow: 0 0 2px alpha(#79ddeb, 0.1);
+        border-color: alpha(#101415, 0.8); 
+        box-shadow: 0 0 2px alpha(#76d4e4, 0.1);
     }
 }
 
@@ -20,7 +20,7 @@ window {
 }
 
 #text {
-    color: #79ddeb;
+    color: #76d4e4;
     font-size: 30px;
     font-weight: bold;
 }
@@ -29,16 +29,16 @@ window {
     margin: 15px;
     padding: 65px 0px 65px 60px;
     border-radius: 20px;
-    background-color: alpha(#0f1415, 0.7);
-    border: 3px solid #79ddeb;
+    background-color: alpha(#101415, 0.7);
+    border: 3px solid #76d4e4;
     animation: pulse 4s ease-in-out infinite;
 }
 
 #entry:selected {
-    background-color: #79ddeb;
-    border: 3px solid #79ddeb;
+    background-color: #76d4e4;
+    border: 3px solid #76d4e4;
 }
 
 #entry:selected #text {
-    color: #0f1415;
+    color: #101415;
 }
