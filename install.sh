@@ -54,7 +54,36 @@ for dir in "${CONFIG_DIRS[@]}"; do
     fi
 done
 
-# 4. Limpieza
+# 4. Integración con la Shell (Fastfetch)
+printf "${BLUE}🐚 Configurando Fastfetch en tu shell activa...${NC}\n"
+FETCH_CMD="~/.config/fastfetch/fetch.sh"
+chmod +x "$HOME/.config/fastfetch/fetch.sh" 2>/dev/null || true
+
+CURRENT_SHELL=$(basename "$SHELL")
+
+if [ "$CURRENT_SHELL" == "bash" ] && [ -f "$HOME/.bashrc" ]; then
+    if ! grep -q "$FETCH_CMD" "$HOME/.bashrc"; then
+        echo -e "\n# Fastfetch custom script\n$FETCH_CMD" >> "$HOME/.bashrc"
+        printf "${GREEN}✅ Agregado a .bashrc (Shell activa: $CURRENT_SHELL)${NC}\n"
+    fi
+elif [ "$CURRENT_SHELL" == "zsh" ] && [ -f "$HOME/.zshrc" ]; then
+    if ! grep -q "$FETCH_CMD" "$HOME/.zshrc"; then
+        echo -e "\n# Fastfetch custom script\n$FETCH_CMD" >> "$HOME/.zshrc"
+        printf "${GREEN}✅ Agregado a .zshrc (Shell activa: $CURRENT_SHELL)${NC}\n"
+    fi
+elif [ "$CURRENT_SHELL" == "fish" ]; then
+    FISH_CONFIG="$HOME/.config/fish/config.fish"
+    mkdir -p "$(dirname "$FISH_CONFIG")"
+    if [ ! -f "$FISH_CONFIG" ] || ! grep -q "$FETCH_CMD" "$FISH_CONFIG"; then
+        echo -e "\n# Fastfetch custom script\n$FETCH_CMD" >> "$FISH_CONFIG"
+        printf "${GREEN}✅ Agregado a config.fish (Shell activa: $CURRENT_SHELL)${NC}\n"
+    fi
+else
+    printf "${YELLOW}⚠️  Shell detectada ($CURRENT_SHELL) no compatible o archivo de configuración ausente.${NC}\n"
+    printf "${YELLOW}Por favor, agrega manualmente '$FETCH_CMD' a tu configuración de shell.${NC}\n"
+fi
+
+# 5. Limpieza
 printf "${BLUE}🧹 Limpiando archivos temporales...${NC}\n"
 rm -rf "$TEMP_DIR"
 

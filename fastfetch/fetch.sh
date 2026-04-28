@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Rutas usando $HOME para mayor compatibilidad
-ICON_DIR="/mnt/Respaldos/iconos"
+ICON_DIR="$HOME/.config/fastfetch/icons"
 CONFIG_FILE="$HOME/.config/fastfetch/config.jsonc"
 CACHE_FILE="$HOME/.config/fastfetch/image_cache.txt"
 

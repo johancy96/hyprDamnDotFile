@@ -88,7 +88,22 @@ Si prefieres hacerlo paso a paso:
    cd hyprDamnDotFile
    cp -r btop fastfetch hypr kitty matugen waybar waypaper wofi ~/.config/
    ```
+3. **Integración con la Shell:**
+   Para que los iconos aparezcan automáticamente al abrir la terminal, agrega la siguiente línea al final de tu archivo de configuración (`~/.bashrc`, `~/.zshrc` o `~/.config/fish/config.fish`):
+   ```bash
+   ~/.config/fastfetch/fetch.sh
+   ```
+   *No olvides darle permisos de ejecución:* `chmod +x ~/.config/fastfetch/fetch.sh`
 
+
+
+## 🎨 Personalización
+
+### Iconos de Fastfetch
+Puedes personalizar la imagen que aparece al abrir la terminal agregando tus propios archivos (PNG, JPG, SVG, etc.) en la carpeta de configuración:
+`~/.config/fastfetch/icons/`
+
+El script `fetch.sh` elegirá automáticamente una imagen al azar de esa carpeta cada vez que abras la terminal o ejecutes el comando.
 
 
 ---
