@@ -53,29 +53,26 @@ Para que los iconos y símbolos se vean correctamente, es necesario instalar las
 
 ## 🚀 Instalación
 
-### Instalación Rápida (One-liner)
+Para instalar este entorno, sigue estos pasos:
 
-Si prefieres instalar todo con un solo comando dependiendo de tu shell:
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/johancy96/hyprDamnDotFile.git
+   ```
 
-**Bash:**
-```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/johancy96/hyprDamnDotFile/main/install.sh)"
-```
+2. **Entrar al directorio:**
+   ```bash
+   cd hyprDamnDotFile
+   ```
 
-**Zsh:**
-```zsh
-zsh -c "$(curl -fsSL https://raw.githubusercontent.com/johancy96/hyprDamnDotFile/main/install.sh)"
-```
+3. **Copiar las carpetas de configuración:**
+   Copia las carpetas a tu directorio `~/.config/`. Se recomienda hacer una copia de seguridad de tus archivos existentes antes de proceder.
+   ```bash
+   cp -r btop fastfetch hypr kitty matugen waybar waypaper wofi ~/.config/
+   ```
 
-**Fish:**
-```fish
-curl -fsSL https://raw.githubusercontent.com/johancy96/hyprDamnDotFile/main/install.sh | fish
-```
-
-El script detectará automáticamente todas las carpetas del proyecto, gestionará las dependencias según tu SO, creará copias de seguridad de tus configuraciones existentes y las instalará en `~/.config/`.
 
 
 ---
 > [!TIP]
 > Este proyecto está diseñado para ser visualmente impactante. Se recomienda usar fuentes modernas como **Inter** o **JetBrainsMono Nerd Font** para la mejor experiencia.
-# hyprDamnDotFile
