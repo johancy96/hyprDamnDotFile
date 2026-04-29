@@ -15,6 +15,9 @@ if [ "$MODE" == "area" ]; then
     # 1. Obtener el área. Si slurp falla (Esc), salimos del script.
     AREA=$(slurp) || exit 0
     
+    # Pequeña pausa para permitir que la capa de selección de slurp desaparezca
+    sleep 0.2
+    
     # 2. Capturar y pasar a swappy. 
     # Solo guardamos el archivo si swappy devuelve datos.
     grim -g "$AREA" - | swappy -f - -o - > "$FILE"

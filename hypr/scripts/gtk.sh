@@ -49,10 +49,19 @@ fi
 gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
 # Reiniciar portales para asegurar que detecten los cambios
-sleep 1
+# Detectar la ruta de los portales dinámicamente (difiere entre Arch y Fedora)
+if [ -x "/usr/libexec/xdg-desktop-portal" ]; then
+    PORTAL_DIR="/usr/libexec"
+elif [ -x "/usr/lib/xdg-desktop-portal" ]; then
+    PORTAL_DIR="/usr/lib"
+else
+    echo "No se encontraron los binarios de xdg-desktop-portal."
+    exit 1
+fi
+
 killall -e xdg-desktop-portal-hyprland
 killall -e xdg-desktop-portal-gtk
 killall -e xdg-desktop-portal
-/usr/lib/xdg-desktop-portal-hyprland &
+"$PORTAL_DIR/xdg-desktop-portal-hyprland" &
 sleep 2
-/usr/lib/xdg-desktop-portal &
+"$PORTAL_DIR/xdg-desktop-portal" &

@@ -21,7 +21,7 @@ Para que este entorno funcione correctamente, asegúrate de tener instalados los
 - `adw-gtk3-theme`: Tema GTK compatible con Libadwaita.
 - `papirus-icon-theme`: Pack de iconos premium.
 - `waypaper`: Frontend para la gestión de fondos de pantalla.
-- `hyprpaper`: Wallpaper daemon ligero y oficial de Hyprland.
+- `swaybg`: Utilidad para el fondo de pantalla en Wayland.
 - `hyprsunset`: Control de luz nocturna (filtro de luz azul).
 
 ### 🛠️ Componentes del Sistema
