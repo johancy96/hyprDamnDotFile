@@ -1,26 +1,12 @@
-@keyframes pulse {
-    0% { 
-        border-color: alpha(#101415, 0.8); 
-        box-shadow: 0 0 2px alpha(#76d4e4, 0.1);
-    }
-    50% { 
-        border-color: #76d4e4; 
-        box-shadow: 0 0 15px alpha(#76d4e4, 0.6);
-    }
-    100% { 
-        border-color: alpha(#101415, 0.8); 
-        box-shadow: 0 0 2px alpha(#76d4e4, 0.1);
-    }
-}
+/* Animación de pulso eliminada */
 
 window {
     margin: 0px;
     padding: 20px;
-    border: 3px solid #76d4e4;
+    border: 2px solid #76d4e4;
     background-color: alpha(#101415, 0.7);
     border-radius: 20px;
     font-family: "JetBrainsMono Nerd Font", "Inter", sans-serif;
-    animation: pulse 4s ease-in-out infinite;
 }
 
 #outer-box {

@@ -46,8 +46,7 @@ window#waybar {
     color: {{colors.primary.default.hex}};
     background-color: transparent;
     border-radius: 50%;
-    /* Transición suave e igual a la lógica de la animación */
-    transition: all 0.8s ease-in-out;
+    /* Eliminada la transición global para que el cambio de workspace sea instantáneo (minimalista) */
     background-image: none;
     border: none;
     box-shadow: none;
@@ -55,10 +54,14 @@ window#waybar {
 }
 
 #workspaces button.active {
-    animation: pulse 4s ease-in-out infinite;
+    transition: all 0.8s ease-out;
+    background-color: {{colors.primary.default.hex}}; 
+    color: {{colors.surface.default.hex}};
+    box-shadow: 0 0 10px alpha({{colors.primary.default.hex}}, 0.5);
 }
 
 #workspaces button:not(.active):hover {
+    transition: all 0.2s ease;
     background-color: {{colors.primary.default.hex}}; 
     color: {{colors.surface.default.hex}};
     box-shadow: 0 0 10px alpha({{colors.primary.default.hex}}, 0.5);
