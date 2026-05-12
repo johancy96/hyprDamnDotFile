@@ -11,16 +11,15 @@ hyprctl reload >> $LOG 2>&1
 pkill waybar
 waybar & >> $LOG 2>&1
 
-# Reiniciar Dunst usando systemd si está disponible, si no, usar pkill
-if systemctl --user is-active --quiet dunst; then
-    systemctl --user restart dunst >> $LOG 2>&1
-else
-    pkill dunst
-    dunst & >> $LOG 2>&1
-fi
+# Reiniciar SwayNC para aplicar los cambios de color
+swaync-client -rs >> $LOG 2>&1
 
 # Recargar Kitty (enviar señal SIGUSR1 a todas las instancias)
 pkill -USR1 kitty >> $LOG 2>&1
+
+# Reiniciar Clipse (Listener)
+clipse -kill >> $LOG 2>&1
+clipse -listen & >> $LOG 2>&1
 
 # --- Gestión de btop y su Terminal Kitty ---
 # Buscamos todos los PIDs de btop

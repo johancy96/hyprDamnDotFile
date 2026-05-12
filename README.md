@@ -11,13 +11,12 @@ Para que este entorno funcione correctamente, asegúrate de tener instalados los
 - `grim`: Utilidad para realizar capturas de pantalla.
 - `slurp`: Selección de regiones en Wayland.
 - `swappy`: Herramienta de edición para capturas de pantalla.
-- `wf-recorder`: Grabador de pantalla para Wayland.
+- `gpu-screen-recorder`: Grabador de pantalla para Wayland.
 
 ### 🎨 Estética y Tematización
 - `matugen`: Generador de paletas de colores dinámicas (Material You).
 - `nwg-look`: Instalador de temas GTK3.
 - `qt5ct` & `qt6ct`: Configuración de temas para aplicaciones Qt.
-- `qt5-styleplugins`: Plugins de estilo para Qt5.
 - `adw-gtk3-theme`: Tema GTK compatible con Libadwaita.
 - `papirus-icon-theme`: Pack de iconos premium.
 - `waypaper`: Frontend para la gestión de fondos de pantalla.
@@ -27,7 +26,7 @@ Para que este entorno funcione correctamente, asegúrate de tener instalados los
 ### 🛠️ Componentes del Sistema
 - `waybar`: Barra de estado altamente personalizable.
 - `wofi`: Lanzador de aplicaciones y menús dinámicos.
-- `dunst`: Demonio de notificaciones ligero.
+- `swaync`: Bandeja de notificaciones ligera.
 - `libnotify`: Biblioteca y utilidades para enviar notificaciones (`notify-send`).
 - `pavucontrol`: Control de volumen por software.
 - `power-profiles-daemon`: Gestión de perfiles de energía (ahorro, balanceado, rendimiento).
@@ -36,8 +35,7 @@ Para que este entorno funcione correctamente, asegúrate de tener instalados los
 ### ⌨️ Utilidades y Portapapeles
 - `kitty`: Emulador de terminal rápido y basado en GPU.
 - `fastfetch`: Información del sistema con estilo.
-- `cliphist`: Historial del portapapeles.
-- `nwg-clipman`: Gestor visual del portapapeles.
+- `clipse`: Gestor visual del portapapeles TUI.
 - `wl-clipboard`: Utilidades para el portapapeles en Wayland.
 - `jq`: Procesador de JSON en línea de comandos (usado en scripts).
 - `imagemagick`: Herramientas de manipulación de imágenes.

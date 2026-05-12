@@ -10,12 +10,6 @@
         "hyprland/language",
         "hyprland/window"
     ],
-
-    "hyprland/language": {
-        "format": " {short}",
-        "min-length": 5,
-        "tooltip": false
-    },
     "modules-center": [
         "custom/sunset",
         "clock",
@@ -23,8 +17,8 @@
     ],
     "modules-right": [
         "tray",
-        "custom/notifications",
-        "custom/clipman",
+        "custom/notification",
+        "custom/clipse",
         "custom/gpu",
         "cpu",
         "temperature",
@@ -33,6 +27,11 @@
         "network",
         "pulseaudio"
     ],
+    "hyprland/language": {
+        "format": "  {short}",
+        "min-length": 5,
+        "tooltip": false
+    },
     "hyprland/workspaces": {
         "disable-scroll": true,
         "all-outputs": true,
@@ -48,37 +47,37 @@
         }
     },
     "hyprland/window": {
-        "format": "󱂬 {title}",
+        "format": "󱂬  {title}",
         "max-length": 40,
         "separate-outputs": true
     },
     "clock": {
         "format": "{:%I:%M %p}",
-        "format-alt": "󰃭 {:%a %d %b}",
+        "format-alt": "󰃭  {:%a %d %b}",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
     },
     "cpu": {
         "interval": 10,
-        "format": "󰻠 {usage}%",
+        "format": "󰻠  {usage}%",
         "max-length": 10
     },
     "temperature": {
         "thermal-zone": 2,
         "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
         "critical-threshold": 80,
-        "format-critical": "{temperatureC}°C ",
-        "format": "{temperatureC}°C "
+        "format-critical": "{temperatureC} °C ",
+        "format": "{temperatureC} °C "
     },
     "memory": {
         "interval": 30,
-        "format": "󰍛 {percentage}%",
-        "format-alt": "󰍛 {used:0.1f}G",
+        "format": "󰍛  {percentage}%",
+        "format-alt": "󰍛  {used:0.1f}G",
         "max-length": 10
     },
     "custom/gpu": {
         "exec": "~/.config/waybar/scripts/gpu_info.sh",
         "return-type": "json",
-        "format": "󰾲 {}",
+        "format": "󰾲  {}",
         "interval": 10,
         "tooltip": true
     },
@@ -94,16 +93,16 @@
         }
     },
     "network": {
-        "format-wifi": "  {essid}",
-        "format-ethernet": "󰈀 {ifname}",
-        "format-linked": "󰈀 {ifname} (No IP)",
-        "format-disconnected": "󰖪 Disconnected",
+        "format-wifi": "   {essid}",
+        "format-ethernet": "󰈀  {ifname}",
+        "format-linked": "󰈀  {ifname} (No IP)",
+        "format-disconnected": "󰖪  Disconnected",
         "tooltip-format-wifi": "Signal Strength: {signalStrength}%",
         "on-click": "nm-connection-editor"
     },
     "pulseaudio": {
-        "format": "{icon} {volume}%",
-        "format-muted": "󰝟 Muted",
+        "format": "{icon}  {volume}%",
+        "format-muted": "󰝟  Muted",
         "format-icons": {
             "headphone": "",
             "hands-free": "",
@@ -125,18 +124,29 @@
         "tooltip": true,
         "tooltip-format": "Change Wallpaper"
     },
-    "custom/notifications": {
-        "format": "{}",
-        "exec": "~/.config/wofi/scripts/notifications.sh",
+    "custom/notification": {
+        "tooltip": false,
+        "format": "{icon}",
+        "format-icons": {
+            "notification": "<span foreground='red'><sup></sup></span>",
+            "none": "",
+            "dnd-notification": "<span foreground='red'><sup></sup></span>",
+            "dnd-none": "",
+            "inhibited-notification": "<span foreground='red'><sup></sup></span>",
+            "inhibited-none": "",
+            "dnd-inhibited-notification": "<span foreground='red'><sup></sup></span>",
+            "dnd-inhibited-none": ""
+        },
         "return-type": "json",
-        "interval": 2,
-        "on-click": "~/.config/wofi/scripts/notifications.sh list",
-        "on-click-right": "~/.config/wofi/scripts/notifications.sh clear",
-        "on-click-middle": "dunstctl set-paused toggle"
+        "exec-if": "which swaync-client",
+        "exec": "swaync-client -swb",
+        "on-click": "swaync-client -t -sw",
+        "on-click-right": "swaync-client -d -sw",
+        "escape": true
     },
-    "custom/clipman": {
+    "custom/clipse": {
         "format": "󰅌",
-        "on-click": "nwg-clipman",
+        "on-click": "kitty --class clipse -e clipse",
         "tooltip": true,
         "tooltip-format": "Clipboard Manager"
     },

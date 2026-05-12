@@ -32,6 +32,6 @@ if [ ! -s "$FILE" ]; then
     exit 0
 fi
 
-# 4. Éxito: Copiar al portapapeles y notificar
+# 4. Éxito: Copiar al portapapeles
 wl-copy < "$FILE"
-notify-send "Captura Guardada" "La imagen se ha guardado y copiado al portapapeles." -i "$FILE" -a "Screenshot"
+# notify-send "Captura Guardada" "La imagen se ha guardado y copiado al portapapeles." -i "$FILE" -a "Screenshot"

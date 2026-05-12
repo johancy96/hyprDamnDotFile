@@ -71,7 +71,7 @@ window#waybar {
 }
 
 
-#window, #clock, #tray, #pulseaudio, #network, #power-profiles-daemon, #custom-gpu, #cpu, #memory, #temperature, #custom-waypaper, #custom-clipman, #custom-notifications, #language {
+#window, #clock, #tray, #pulseaudio, #network, #power-profiles-daemon, #custom-gpu, #cpu, #memory, #temperature, #custom-waypaper, #custom-clipse, #custom-notification, #language {
     background-color: alpha({{colors.surface.default.hex}}, 0.7);
     border-bottom: 2px solid {{colors.primary.default.hex}};
     margin: 5px;

@@ -1,0 +1,2382 @@
+--- Matugen Trigger: vie 08 may 2026 03:42:48 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:42:48 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:42:48.591] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+ok
+Refresco completado.
+[2026-05-08 03:42:48.592] [info] Discovered appearance 'dark'
+[2026-05-08 03:42:48.602] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:42:48.605] [info] Hyprland IPC starting
+[2026-05-08 03:42:48.605] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:42:48.605] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:42:48.734] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:42:48.734] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:42:56 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:42:56 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (4).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (4).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:42:56 -04 ---
+[2026-05-08 03:42:56.845] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:42:56.861] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:42:56.861] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:42:56.863] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:42:56.863] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:42:56.863] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:42:56.918] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:42:56.920] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:42:56.930] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:42:56.932] [info] Hyprland IPC starting
+[2026-05-08 03:42:56.933] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:42:56.933] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:42:57.062] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:42:57.062] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:42:58 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:42:58 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:42:58 -04 ---
+[2026-05-08 03:42:58.894] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:42:58.910] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:42:58.910] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:42:58.911] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:42:58.911] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:42:58.911] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:42:58.968] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:42:58.969] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:42:58.979] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:42:58.982] [info] Hyprland IPC starting
+[2026-05-08 03:42:58.982] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:42:58.983] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:42:59.112] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:42:59.112] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:43:00 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:43:00 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 03:43:00.298] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 03:43:00 -04 ---
+ok
+[2026-05-08 03:43:00.316] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:00.316] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:43:00.318] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:43:00.318] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:00.318] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:43:00.375] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:43:00.376] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:43:00.387] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:43:00.390] [info] Hyprland IPC starting
+[2026-05-08 03:43:00.390] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:00.390] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:43:00.521] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:43:00.521] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:43:01 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:43:01 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (3).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (3).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 03:43:01.389] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 03:43:01 -04 ---
+ok
+[2026-05-08 03:43:01.407] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:01.407] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:43:01.408] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:43:01.409] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:01.409] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:43:01.465] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:43:01.467] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:43:01.477] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:43:01.479] [info] Hyprland IPC starting
+[2026-05-08 03:43:01.480] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:01.480] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:43:01.609] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:43:01.609] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:43:02 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:43:02 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 03:43:02.615] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 03:43:02 -04 ---
+[2026-05-08 03:43:02.619] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:02.619] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:43:02.625] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:43:02.631] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:02.631] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:43:02.690] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:43:02.691] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:43:02.702] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:43:02.704] [info] Hyprland IPC starting
+[2026-05-08 03:43:02.705] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:02.705] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:43:02.833] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:43:02.833] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:43:06 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:43:07 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+[2026-05-08 03:43:07.201] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:43:07 -04 ---
+[2026-05-08 03:43:07.207] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:07.207] [info] Loading persistent workspaces from Hyprland workspace rules
+ok
+[2026-05-08 03:43:07.219] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:43:07.220] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:07.220] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:43:07.277] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:43:07.278] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:43:07.288] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:43:07.291] [info] Hyprland IPC starting
+[2026-05-08 03:43:07.291] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:43:07.291] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:43:07.420] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:43:07.420] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (4).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (4).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (4).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (7).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (3).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (3).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (3).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (10).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+--- Refresco Global: vie 08 may 2026 03:46:05 -04 ---
+HYPRLAND_INSTANCE_SIGNATURE not set! (is hyprland running?)
+
+Refresco completado.
+--- Matugen Trigger: vie 08 may 2026 03:46:47 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:46:47 -04 ---
+[2026-05-08 03:46:47.396] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:46:47.409] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:46:47.409] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:46:47.410] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:46:47.410] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:46:47.410] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:46:47.469] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:46:47.470] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:46:47.482] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:46:47.482] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:46:52 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:46:52 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:46:52.767] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:46:52.768] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:46:52.778] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:46:52.778] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:46:53 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:46:53 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:46:53.295] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:46:53.296] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:46:53.306] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:46:53.306] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:46:53 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:46:53 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:46:53.523] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:46:53.524] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:46:53.534] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:46:53.534] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:46:53 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:46:53 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:46:53.707] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:46:53.708] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:46:53.718] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:46:53.719] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:46:53 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:46:53 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:46:53.919] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:46:53.920] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:46:53.930] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:46:53.931] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:46:53 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:46:54 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:46:54.076] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:46:54.077] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:46:54.087] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:46:54.088] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:46:54 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:46:54 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:46:54.289] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:46:54.290] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:46:54.300] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:46:54.301] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:46:54 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:46:54 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:46:54.512] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:46:54.514] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:46:54.524] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:46:54.524] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:46:54 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:46:54 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:46:54.756] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:46:54.757] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:46:54.767] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:46:54.767] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:47:13 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (4).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (4).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:47:13 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:47:13.660] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:47:13.661] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:47:13.671] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:47:13.671] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:47:15 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:47:15 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:47:15.684] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:47:15.686] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:47:15.696] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:47:15.696] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:47:17 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (1).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (1).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:47:17 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:47:17.780] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:47:17.781] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:47:17.791] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:47:17.792] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:47:19 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:47:19 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:47:19.865] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:47:19.866] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:47:19.877] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:47:19.877] [error] style.css:83:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:26 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:26 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:27.029] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:27.030] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:27.041] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:27.041] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:27 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:27 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:27.963] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:27.964] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:27.974] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:27.974] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:29 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:29 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:29.277] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:29.278] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:29.288] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:29.288] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:29 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:29 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:29.539] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:29.540] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:29.551] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:29.551] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:29 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:29 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:29.726] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:29.727] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:29.737] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:29.737] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:29 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:29 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:29.908] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:29.909] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:29.919] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:29.920] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:29 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:30 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:30.078] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:30.079] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:30.089] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:30.090] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:30 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:30 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:30.259] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:30.260] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+--- Matugen Trigger: vie 08 may 2026 03:49:30 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+[2026-05-08 03:49:30.270] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:30.271] [error] style.css:82:14'text-align' is not a valid property name
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:30 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:30.411] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:30.413] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:30.423] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:30.423] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:30 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:30 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:30.653] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:30.654] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:30.664] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:30.665] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:30 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:30 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:30.817] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:30.818] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:30.829] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:30.829] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:30 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:30 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:30.992] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:30.993] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:31.003] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:31.003] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:33 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:33 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:33.877] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:33.878] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:33.888] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:33.889] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:33 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:33 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:34.071] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:34.072] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:34.082] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:34.082] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:34 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:34 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:34.638] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:34.640] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:34.650] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:34.650] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:34 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:34 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:34.865] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:34.866] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:34.876] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:34.876] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:34 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:34 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:35.029] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:35.031] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:35.041] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:35.041] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:49:35 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:49:35 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:49:35.226] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:49:35.227] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:49:35.237] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:49:35.238] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:50:22 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:50:22 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:50:22.895] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:50:22.896] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:50:22.906] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:50:22.906] [error] style.css:82:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:50:36 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:50:36 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:50:37.040] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:50:37.042] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:50:37.052] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:50:37.054] [info] Hyprland IPC starting
+[2026-05-08 03:50:37.055] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:50:37.055] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:50:37.183] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:50:37.183] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 03:52:24 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:52:24 -04 ---
+[2026-05-08 03:52:24.232] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:52:24.244] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:52:24.244] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:52:24.246] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:52:24.246] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:52:24.246] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:52:24.303] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+ok
+Refresco completado.
+[2026-05-08 03:52:24.304] [info] Discovered appearance 'dark'
+[2026-05-08 03:52:24.315] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:52:24.315] [error] style.css:54:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:52:25 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:52:25 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:52:25.821] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:52:25.822] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:52:25.832] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:52:25.832] [error] style.css:54:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:52:26 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:52:26 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:52:26.408] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:52:26.409] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:52:26.419] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:52:26.419] [error] style.css:54:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:52:26 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:52:26 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:52:26.603] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+ok
+Refresco completado.
+[2026-05-08 03:52:26.605] [info] Discovered appearance 'dark'
+[2026-05-08 03:52:26.615] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:52:26.615] [error] style.css:54:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:52:26 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:52:26 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:52:26.773] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:52:26.775] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:52:26.785] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:52:26.785] [error] style.css:54:14'text-align' is not a valid property name
+--- Matugen Trigger: vie 08 may 2026 03:54:24 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:54:24 -04 ---
+ok
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:54:24.153] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:54:24.155] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:54:24.165] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:54:24.167] [info] Hyprland IPC starting
+[2026-05-08 03:54:24.167] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:24.167] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:24.295] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:54:24.295] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:54:30 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:54:31 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (3).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (3).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 03:54:31.113] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 03:54:31 -04 ---
+ok
+[2026-05-08 03:54:31.124] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:31.124] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:31.130] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:54:31.131] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:31.131] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:54:31.191] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+ok
+Refresco completado.
+[2026-05-08 03:54:31.192] [info] Discovered appearance 'dark'
+[2026-05-08 03:54:31.202] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:54:31.205] [info] Hyprland IPC starting
+[2026-05-08 03:54:31.206] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:31.206] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:31.335] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:54:31.335] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:54:32 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:54:32 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (4).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (4).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:54:32 -04 ---
+[2026-05-08 03:54:32.427] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:54:32.445] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:32.445] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:32.446] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:54:32.446] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:32.446] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:54:32.504] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:54:32.505] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:54:32.515] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:54:32.518] [info] Hyprland IPC starting
+[2026-05-08 03:54:32.519] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:32.519] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:32.649] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:54:32.649] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:54:34 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:54:34 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080.jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:54:34 -04 ---
+[2026-05-08 03:54:34.796] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:54:34.814] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:34.814] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:34.816] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:54:34.816] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:34.816] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:54:34.882] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:54:34.885] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 03:54:34.898] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:54:34.901] [info] Hyprland IPC starting
+[2026-05-08 03:54:34.902] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:34.902] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:35.035] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:54:35.035] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:54:35 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:54:36 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (1).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (1).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 03:54:36.193] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 03:54:36 -04 ---
+ok
+[2026-05-08 03:54:36.214] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:36.214] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:36.216] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:54:36.216] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:36.216] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+ok
+Refresco completado.
+[2026-05-08 03:54:36.276] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:54:36.278] [info] Discovered appearance 'dark'
+[2026-05-08 03:54:36.288] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:54:36.291] [info] Hyprland IPC starting
+[2026-05-08 03:54:36.292] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:36.292] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:36.422] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:54:36.422] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:54:37 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:54:37 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:54:37 -04 ---
+[2026-05-08 03:54:37.536] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:54:37.554] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:37.554] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:37.555] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:54:37.555] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:37.555] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/johancy/.config/matugen/scripts/refresh.sh: línea 19: dunst: orden no encontrada
+[2026-05-08 03:54:37.618] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+ok
+Refresco completado.
+[2026-05-08 03:54:37.620] [info] Discovered appearance 'dark'
+[2026-05-08 03:54:37.631] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:54:37.635] [info] Hyprland IPC starting
+[2026-05-08 03:54:37.637] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:54:37.637] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:54:37.776] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:54:37.776] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (3).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (3).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (3).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (4).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (4).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (4).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080.jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080.jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080.jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (1).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (1).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (1).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+--- Matugen Trigger: vie 08 may 2026 03:59:10 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:59:10 -04 ---
+[2026-05-08 03:59:10.851] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:59:10.852] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:10.852] [info] Loading persistent workspaces from Hyprland workspace rules
+ok
+[2026-05-08 03:59:10.864] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:59:10.864] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:10.864] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 03:59:10.923] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:59:10.924] [info] Discovered appearance 'dark'
+[2026-05-08 03:59:10.934] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:59:10.937] [info] Hyprland IPC starting
+[2026-05-08 03:59:10.938] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:10.938] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:11.067] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:59:11.067] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 03:59:33 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:59:33 -04 ---
+[2026-05-08 03:59:33.409] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:59:33.421] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:33.421] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:33.423] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:59:33.423] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:33.423] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 03:59:33.482] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:59:33.484] [info] Discovered appearance 'dark'
+[2026-05-08 03:59:33.497] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:59:33.501] [info] Hyprland IPC starting
+[2026-05-08 03:59:33.502] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:33.502] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:33.638] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:59:33.638] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:59:43 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:59:43 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:59:43 -04 ---
+[2026-05-08 03:59:43.436] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:59:43.458] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:43.458] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:43.459] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:59:43.459] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:43.459] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 03:59:43.516] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:59:43.517] [info] Discovered appearance 'dark'
+[2026-05-08 03:59:43.528] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:59:43.530] [info] Hyprland IPC starting
+[2026-05-08 03:59:43.531] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:43.531] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:43.659] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:59:43.659] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:59:45 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:59:45 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (11).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (11).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 03:59:45.529] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 03:59:45 -04 ---
+ok
+[2026-05-08 03:59:45.549] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:45.549] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:45.550] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:59:45.550] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:45.550] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 03:59:45.614] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:59:45.616] [info] Discovered appearance 'dark'
+[2026-05-08 03:59:45.632] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:59:45.636] [info] Hyprland IPC starting
+[2026-05-08 03:59:45.636] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:45.636] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:45.770] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:59:45.771] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:59:46 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:59:46 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (1).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (1).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 03:59:47 -04 ---
+[2026-05-08 03:59:47.089] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 03:59:47.106] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:47.107] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:47.108] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:59:47.108] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:47.108] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 03:59:47.166] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:59:47.167] [info] Discovered appearance 'dark'
+[2026-05-08 03:59:47.178] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:59:47.181] [info] Hyprland IPC starting
+[2026-05-08 03:59:47.181] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:47.181] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:47.310] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:59:47.310] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 03:59:50 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 03:59:50 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 03:59:50.989] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 03:59:50 -04 ---
+ok
+[2026-05-08 03:59:51.010] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:51.010] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:51.011] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 03:59:51.011] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:51.011] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 03:59:51.073] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 03:59:51.075] [info] Discovered appearance 'dark'
+[2026-05-08 03:59:51.091] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 03:59:51.094] [info] Hyprland IPC starting
+[2026-05-08 03:59:51.095] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 03:59:51.095] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 03:59:51.229] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 03:59:51.229] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (10).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (11).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (11).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (11).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (1).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (1).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (1).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+--- Matugen Trigger: vie 08 may 2026 04:04:02 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:04:02 -04 ---
+[2026-05-08 04:04:02.089] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:04:02.102] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:02.102] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:02.104] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:04:02.104] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:02.104] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:04:02.160] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:04:02.161] [info] Discovered appearance 'dark'
+[2026-05-08 04:04:02.171] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:04:02.174] [info] Hyprland IPC starting
+[2026-05-08 04:04:02.175] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:02.175] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:02.304] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:04:02.304] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 04:04:35 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 04:04:35 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 04:04:35.857] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 04:04:35 -04 ---
+ok
+[2026-05-08 04:04:35.878] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:35.878] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:35.879] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:04:35.879] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:35.879] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:04:35.939] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:04:35.940] [info] Discovered appearance 'dark'
+[2026-05-08 04:04:35.950] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:04:35.953] [info] Hyprland IPC starting
+[2026-05-08 04:04:35.954] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:35.954] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:36.083] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:04:36.083] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 04:04:39 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 04:04:39 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 04:04:40.054] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 04:04:40 -04 ---
+[2026-05-08 04:04:40.060] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:40.060] [info] Loading persistent workspaces from Hyprland workspace rules
+ok
+[2026-05-08 04:04:40.072] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:04:40.072] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:40.072] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:04:40.133] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:04:40.136] [info] Discovered appearance 'dark'
+[2026-05-08 04:04:40.152] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:04:40.157] [info] Hyprland IPC starting
+[2026-05-08 04:04:40.157] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:40.157] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:40.296] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:04:40.296] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 04:04:44 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 04:04:44 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080.jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:04:44 -04 ---
+[2026-05-08 04:04:44.662] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:04:44.684] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:44.684] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:44.685] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:04:44.685] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:44.685] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:04:44.743] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:04:44.744] [info] Discovered appearance 'dark'
+[2026-05-08 04:04:44.755] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:04:44.758] [info] Hyprland IPC starting
+[2026-05-08 04:04:44.758] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:44.758] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:44.887] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:04:44.887] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 04:04:51 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 04:04:51 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (6).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (6).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 04:04:51.888] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 04:04:51 -04 ---
+ok
+[2026-05-08 04:04:51.908] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:51.908] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:51.909] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:04:51.910] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:51.910] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:04:51.967] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:04:51.968] [info] Discovered appearance 'dark'
+[2026-05-08 04:04:51.979] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:04:51.982] [info] Hyprland IPC starting
+[2026-05-08 04:04:51.983] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:51.983] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:52.112] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:04:52.112] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 04:04:55 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 04:04:55 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:04:55 -04 ---
+[2026-05-08 04:04:55.336] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:04:55.357] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:55.357] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:55.358] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:04:55.358] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:55.358] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:04:55.417] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:04:55.418] [info] Discovered appearance 'dark'
+[2026-05-08 04:04:55.429] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:04:55.431] [info] Hyprland IPC starting
+[2026-05-08 04:04:55.432] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:04:55.432] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:04:55.562] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:04:55.562] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (10).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (7).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080.jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080.jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080.jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (6).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (6).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (6).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+--- Matugen Trigger: vie 08 may 2026 04:07:17 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:07:17 -04 ---
+[2026-05-08 04:07:17.254] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:07:17.266] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:17.266] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:07:17.267] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:07:17.268] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:17.268] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:07:17.324] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:07:17.325] [info] Discovered appearance 'dark'
+[2026-05-08 04:07:17.336] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:07:17.339] [info] Hyprland IPC starting
+[2026-05-08 04:07:17.339] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:17.339] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:07:17.467] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:07:17.467] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 04:07:21 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 04:07:21 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (3).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (3).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 04:07:21.456] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 04:07:21 -04 ---
+[2026-05-08 04:07:21.460] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:21.460] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:07:21.467] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:07:21.472] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:21.472] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:07:21.532] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:07:21.534] [info] Discovered appearance 'dark'
+[2026-05-08 04:07:21.545] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:07:21.547] [info] Hyprland IPC starting
+[2026-05-08 04:07:21.548] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:21.548] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:07:21.677] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:07:21.677] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 04:07:24 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 04:07:24 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 04:07:24.837] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 04:07:24 -04 ---
+[2026-05-08 04:07:24.842] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:24.842] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:07:24.849] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:07:24.854] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:24.854] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:07:24.913] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:07:24.915] [info] Discovered appearance 'dark'
+[2026-05-08 04:07:24.925] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:07:24.928] [info] Hyprland IPC starting
+[2026-05-08 04:07:24.929] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:24.929] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:07:25.058] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:07:25.058] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 04:07:28 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 04:07:28 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (9).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (9).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:07:28 -04 ---
+[2026-05-08 04:07:28.885] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:07:28.903] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:28.903] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:07:28.904] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:07:28.904] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:28.904] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:07:28.974] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:07:28.977] [info] Discovered appearance 'dark'
+[2026-05-08 04:07:28.990] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:07:28.993] [info] Hyprland IPC starting
+[2026-05-08 04:07:28.994] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:28.994] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:07:29.127] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:07:29.127] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 04:07:32 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 04:07:32 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:07:32 -04 ---
+[2026-05-08 04:07:32.667] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:07:32.684] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:32.685] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:07:32.686] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:07:32.686] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:32.686] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:07:32.748] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:07:32.750] [info] Discovered appearance 'dark'
+[2026-05-08 04:07:32.766] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:07:32.770] [info] Hyprland IPC starting
+[2026-05-08 04:07:32.771] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:07:32.771] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:07:32.906] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:07:32.906] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (3).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (3).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (3).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (9).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (9).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (9).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+[2026-05-08 04:10:04.879] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:10:04.880] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:10:04.880] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: vie 08 may 2026 04:10:14 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:10:14 -04 ---
+[2026-05-08 04:10:14.224] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:10:14.237] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:10:14.237] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:10:14.238] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:10:14.238] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:10:14.238] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:10:14.298] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:10:14.299] [info] Discovered appearance 'dark'
+[2026-05-08 04:10:14.310] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:10:14.312] [info] Hyprland IPC starting
+[2026-05-08 04:10:14.313] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:10:14.313] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:10:14.443] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:10:14.443] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+Translation into es_VE not found
+Translation into es_VE not found
+Attempting to kill the old instance in case it's still running, pid: 22231
+[2026-05-08 04:13:49.584] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:13:49.590] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:13:49.590] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: vie 08 may 2026 04:14:24 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:14:24 -04 ---
+[2026-05-08 04:14:24.807] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:14:24.820] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:14:24.820] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:14:24.821] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:14:24.821] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:14:24.821] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:14:24.880] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:14:24.882] [info] Discovered appearance 'dark'
+[2026-05-08 04:14:24.892] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:14:24.894] [info] Hyprland IPC starting
+[2026-05-08 04:14:24.895] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:14:24.895] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:14:25.024] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:14:25.024] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-08 04:15:34.872] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:15:34.887] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:15:34.887] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:16:05.068] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:16:05.070] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:16:05.070] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:16:22.226] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:16:22.229] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:16:22.229] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:16:29.693] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:16:29.694] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:16:29.694] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:17:03.177] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:17:03.181] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:17:03.181] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:17:11.705] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:17:11.708] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:17:11.708] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: vie 08 may 2026 04:17:29 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:17:29 -04 ---
+[2026-05-08 04:17:29.262] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:17:29.288] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:17:29.288] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:17:29.289] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:17:29.289] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:17:29.289] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:17:29.350] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:17:29.352] [info] Discovered appearance 'dark'
+[2026-05-08 04:17:29.368] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:17:29.371] [info] Hyprland IPC starting
+[2026-05-08 04:17:29.372] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:17:29.372] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:17:29.507] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:17:29.507] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-08 04:18:02.014] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:18:02.018] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:18:02.018] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:18:17.378] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:18:17.382] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:18:17.382] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:18:55.735] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:18:55.737] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:18:55.737] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: vie 08 may 2026 04:19:06 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:19:06 -04 ---
+[2026-05-08 04:19:06.517] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:19:06.530] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:19:06.530] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:19:06.531] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:19:06.531] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:19:06.531] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:19:06.590] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:19:06.591] [info] Discovered appearance 'dark'
+[2026-05-08 04:19:06.601] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:19:06.604] [info] Hyprland IPC starting
+[2026-05-08 04:19:06.604] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:19:06.605] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:19:06.734] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:19:06.734] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:20:57 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:20:57 -04 ---
+[2026-05-08 04:20:57.578] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:20:57.591] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:20:57.591] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:20:57.592] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:20:57.592] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:20:57.592] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:20:57.650] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:20:57.651] [info] Discovered appearance 'dark'
+[2026-05-08 04:20:57.662] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:20:57.665] [info] Hyprland IPC starting
+[2026-05-08 04:20:57.666] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:20:57.666] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:20:57.795] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:20:57.795] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:23:10 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:23:10 -04 ---
+[2026-05-08 04:23:10.591] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:23:10.603] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:23:10.603] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:23:10.605] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:23:10.605] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:23:10.605] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:23:10.661] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:23:10.663] [info] Discovered appearance 'dark'
+[2026-05-08 04:23:10.673] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:23:10.676] [info] Hyprland IPC starting
+[2026-05-08 04:23:10.677] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:23:10.677] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:23:10.805] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:23:10.805] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:23:31 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:23:31 -04 ---
+[2026-05-08 04:23:31.379] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:23:31.391] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:23:31.391] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:23:31.392] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:23:31.393] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:23:31.393] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:23:31.452] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:23:31.454] [info] Discovered appearance 'dark'
+[2026-05-08 04:23:31.470] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:23:31.475] [info] Hyprland IPC starting
+[2026-05-08 04:23:31.476] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:23:31.476] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:23:31.613] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:23:31.613] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+sh: línea 1: nm-connection-editor: orden no encontrada
+sh: línea 1: nm-connection-editor: orden no encontrada
+--- Matugen Trigger: vie 08 may 2026 04:24:25 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:24:25 -04 ---
+[2026-05-08 04:24:25.319] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:24:25.331] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:24:25.331] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:24:25.333] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:24:25.333] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:24:25.333] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:24:25.396] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:24:25.397] [info] Discovered appearance 'dark'
+[2026-05-08 04:24:25.408] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:24:25.411] [info] Hyprland IPC starting
+[2026-05-08 04:24:25.412] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:24:25.412] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:24:25.543] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:24:25.543] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:24:52 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:24:52 -04 ---
+[2026-05-08 04:24:52.258] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:24:52.271] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:24:52.271] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:24:52.272] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:24:52.272] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:24:52.272] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:24:52.334] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:24:52.335] [info] Discovered appearance 'dark'
+[2026-05-08 04:24:52.345] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:24:52.348] [info] Hyprland IPC starting
+[2026-05-08 04:24:52.348] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:24:52.348] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:24:52.479] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:24:52.479] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:26:51 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:26:51 -04 ---
+[2026-05-08 04:26:51.622] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:26:51.623] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:26:51.623] [info] Loading persistent workspaces from Hyprland workspace rules
+ok
+[2026-05-08 04:26:51.635] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:26:51.635] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:26:51.635] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:26:51.694] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:26:51.695] [info] Discovered appearance 'dark'
+[2026-05-08 04:26:51.706] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:26:51.708] [info] Hyprland IPC starting
+[2026-05-08 04:26:51.709] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:26:51.709] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:26:51.838] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:26:51.838] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:28:06 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:28:06 -04 ---
+[2026-05-08 04:28:06.507] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:28:06.520] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:28:06.520] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:28:06.521] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:28:06.521] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:28:06.521] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:28:06.578] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:28:06.579] [info] Discovered appearance 'dark'
+[2026-05-08 04:28:06.590] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:28:06.592] [info] Hyprland IPC starting
+[2026-05-08 04:28:06.593] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:28:06.593] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:28:06.721] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:28:06.721] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:29:05 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:29:05 -04 ---
+[2026-05-08 04:29:05.938] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:29:05.951] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:05.951] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:29:05.952] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:29:05.952] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:05.952] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:29:06.009] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:29:06.011] [info] Discovered appearance 'dark'
+[2026-05-08 04:29:06.021] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:29:06.024] [info] Hyprland IPC starting
+[2026-05-08 04:29:06.024] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:06.024] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:29:06.152] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:29:06.152] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:29:26 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:29:26 -04 ---
+[2026-05-08 04:29:26.362] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:29:26.363] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:26.363] [info] Loading persistent workspaces from Hyprland workspace rules
+ok
+[2026-05-08 04:29:26.369] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:29:26.375] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:26.375] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:29:26.435] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:29:26.437] [info] Discovered appearance 'dark'
+[2026-05-08 04:29:26.447] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:29:26.449] [info] Hyprland IPC starting
+[2026-05-08 04:29:26.450] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:26.450] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:29:26.578] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:29:26.578] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:29:38 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:29:38 -04 ---
+[2026-05-08 04:29:38.520] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:29:38.532] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:38.532] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:29:38.534] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:29:38.534] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:38.534] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:29:38.591] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:29:38.592] [info] Discovered appearance 'dark'
+[2026-05-08 04:29:38.602] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:29:38.605] [info] Hyprland IPC starting
+[2026-05-08 04:29:38.605] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:38.605] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:29:38.629] [error] custom/notification: invalid format string
+[2026-05-08 04:29:38.731] [error] custom/notification: invalid format string
+[2026-05-08 04:29:38.735] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:29:38.735] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:29:58 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:29:58 -04 ---
+[2026-05-08 04:29:58.817] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:29:58.830] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:58.830] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:29:58.831] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:29:58.831] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:58.831] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:29:58.891] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:29:58.892] [info] Discovered appearance 'dark'
+[2026-05-08 04:29:58.902] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:29:58.904] [info] Hyprland IPC starting
+[2026-05-08 04:29:58.905] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:29:58.905] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:29:59.033] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:29:59.033] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:30:37 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:30:37 -04 ---
+[2026-05-08 04:30:37.157] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:30:37.169] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:30:37.169] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:30:37.170] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:30:37.171] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:30:37.171] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:30:37.228] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:30:37.229] [info] Discovered appearance 'dark'
+[2026-05-08 04:30:37.239] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:30:37.242] [info] Hyprland IPC starting
+[2026-05-08 04:30:37.243] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:30:37.243] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:30:37.371] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:30:37.371] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:31:00 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:31:00 -04 ---
+[2026-05-08 04:31:00.775] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:31:00.787] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:31:00.787] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:31:00.788] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:31:00.789] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:31:00.789] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:31:00.846] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:31:00.847] [info] Discovered appearance 'dark'
+[2026-05-08 04:31:00.857] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:31:00.860] [info] Hyprland IPC starting
+[2026-05-08 04:31:00.860] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:31:00.860] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:31:00.989] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:31:00.989] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 04:31:23 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 04:31:23 -04 ---
+[2026-05-08 04:31:23.654] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 04:31:23.666] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:31:23.666] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:31:23.667] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 04:31:23.668] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:31:23.668] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 04:31:23.724] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 04:31:23.725] [info] Discovered appearance 'dark'
+[2026-05-08 04:31:23.736] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 04:31:23.739] [info] Hyprland IPC starting
+[2026-05-08 04:31:23.739] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 04:31:23.740] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 04:31:23.868] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 04:31:23.868] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 15:17:32 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 15:17:32 -04 ---
+ok
+[2026-05-08 15:17:32.669] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 15:17:32.789] [info] Discovered appearance 'dark'
+[2026-05-08 15:17:32.799] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 15:17:32.803] [info] Hyprland IPC starting
+[2026-05-08 15:17:32.803] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 15:17:32.803] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 15:17:32.982] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 15:17:32.982] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 17:52:31.347] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 17:52:31.354] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 17:52:31.354] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:32:05.976] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:32:05.977] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:32:05.977] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: vie 08 may 2026 18:35:38 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 18:35:38 -04 ---
+[2026-05-08 18:35:38.167] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 18:35:38.180] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:35:38.180] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:35:38.181] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:35:38.181] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:35:38.181] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 18:35:38.243] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 18:35:38.244] [info] Discovered appearance 'dark'
+[2026-05-08 18:35:38.254] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 18:35:38.257] [info] Hyprland IPC starting
+[2026-05-08 18:35:38.257] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:35:38.258] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:35:38.386] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 18:35:38.386] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-08 18:38:55.146] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:38:55.147] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:38:55.147] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: vie 08 may 2026 18:39:24 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 18:39:24 -04 ---
+[2026-05-08 18:39:24.365] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 18:39:24.377] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:39:24.377] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:39:24.379] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:39:24.379] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:39:24.379] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 18:39:24.440] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 18:39:24.441] [info] Discovered appearance 'dark'
+[2026-05-08 18:39:24.453] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 18:39:24.455] [info] Hyprland IPC starting
+[2026-05-08 18:39:24.456] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:39:24.456] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:39:24.585] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 18:39:24.585] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 18:41:01 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 18:41:01 -04 ---
+ok
+[2026-05-08 18:41:02.061] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 18:41:02.111] [info] Discovered appearance 'dark'
+[2026-05-08 18:41:02.122] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 18:41:02.127] [info] Hyprland IPC starting
+[2026-05-08 18:41:02.127] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:41:02.127] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:41:02.316] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 18:41:02.317] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 18:42:34.025] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:42:34.026] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:42:34.027] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: vie 08 may 2026 18:45:19 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 18:45:19 -04 ---
+[2026-05-08 18:45:19.562] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:45:19.563] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:45:19.563] [info] Loading persistent workspaces from Hyprland workspace rules
+ok
+[2026-05-08 18:45:19.575] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:45:19.575] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:45:19.575] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 18:45:19.634] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 18:45:19.636] [info] Discovered appearance 'dark'
+[2026-05-08 18:45:19.647] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 18:45:19.651] [info] Hyprland IPC starting
+[2026-05-08 18:45:19.651] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:45:19.651] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:45:19.783] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 18:45:19.783] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 18:50:46 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 18:50:46 -04 ---
+[2026-05-08 18:50:46.425] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 18:50:46.437] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:50:46.437] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:50:46.439] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:50:46.439] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:50:46.439] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 18:50:46.499] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 18:50:46.501] [info] Discovered appearance 'dark'
+[2026-05-08 18:50:46.515] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 18:50:46.520] [info] Hyprland IPC starting
+[2026-05-08 18:50:46.520] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:50:46.520] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:50:46.657] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 18:50:46.657] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 18:53:28 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 18:53:28 -04 ---
+[2026-05-08 18:53:28.951] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 18:53:28.963] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:53:28.963] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:53:28.964] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:53:28.965] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:53:28.965] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 18:53:29.022] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 18:53:29.024] [info] Discovered appearance 'dark'
+[2026-05-08 18:53:29.035] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 18:53:29.039] [info] Hyprland IPC starting
+[2026-05-08 18:53:29.039] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:53:29.039] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:53:29.170] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 18:53:29.170] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-08 18:57:24.547] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:57:24.556] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:57:24.556] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 18:58:05.805] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 18:58:05.810] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 18:58:05.810] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: vie 08 may 2026 19:03:50 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 19:03:50 -04 ---
+[2026-05-08 19:03:50.136] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 19:03:50.149] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:03:50.149] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 19:03:50.150] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 19:03:50.150] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:03:50.150] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 19:03:50.208] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 19:03:50.210] [info] Discovered appearance 'dark'
+[2026-05-08 19:03:50.221] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 19:03:50.224] [info] Hyprland IPC starting
+[2026-05-08 19:03:50.225] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:03:50.225] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 19:03:50.356] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 19:03:50.356] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: vie 08 may 2026 19:04:18 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 19:04:18 -04 ---
+[2026-05-08 19:04:18.379] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 19:04:18.391] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:04:18.391] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 19:04:18.393] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 19:04:18.393] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:04:18.393] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 19:04:18.451] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 19:04:18.453] [info] Discovered appearance 'dark'
+[2026-05-08 19:04:18.463] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 19:04:18.467] [info] Hyprland IPC starting
+[2026-05-08 19:04:18.467] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:04:18.467] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 19:04:18.599] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 19:04:18.599] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-08 19:07:01.917] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 19:07:01.918] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:07:01.919] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: vie 08 may 2026 19:23:43 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 19:23:44 -04 ---
+[2026-05-08 19:23:44.007] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 19:23:44.019] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:23:44.019] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 19:23:44.020] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 19:23:44.021] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:23:44.021] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+ok
+Refresco completado.
+[2026-05-08 19:23:44.082] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 19:23:44.083] [info] Discovered appearance 'dark'
+[2026-05-08 19:23:44.094] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 19:23:44.098] [info] Hyprland IPC starting
+[2026-05-08 19:23:44.098] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:23:44.098] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 19:23:44.230] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 19:23:44.230] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+Gdk-Message: 19:24:38.902: Error reading events from display: Tubería rota
+--- Matugen Trigger: vie 08 may 2026 19:24:49 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 19:24:49 -04 ---
+ok
+[2026-05-08 19:24:50.062] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 19:24:50.317] [info] Discovered appearance 'dark'
+[2026-05-08 19:24:50.328] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 19:24:50.331] [info] Hyprland IPC starting
+[2026-05-08 19:24:50.331] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:24:50.331] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 19:24:50.470] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 19:24:50.470] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+CSS reload success: true
+ok
+Refresco completado.
+--- Matugen Trigger: vie 08 may 2026 19:35:15 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 19:35:15 -04 ---
+ok
+[2026-05-08 19:35:15.242] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 19:35:15.285] [info] Discovered appearance 'dark'
+[2026-05-08 19:35:15.297] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 19:35:15.301] [info] Hyprland IPC starting
+[2026-05-08 19:35:15.302] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 19:35:15.302] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 19:35:15.491] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 19:35:15.491] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+CSS reload success: true
+ok
+Refresco completado.
+sh: línea 1: activate: orden no encontrada
+--- Matugen Trigger: vie 08 may 2026 21:13:11 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 21:13:11 -04 ---
+[2026-05-08 21:13:11.485] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 21:13:11.497] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:13:11.498] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:13:11.499] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 21:13:11.499] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:13:11.499] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-08 21:13:11.562] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 21:13:11.564] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-08 21:13:11.576] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 21:13:11.580] [info] Hyprland IPC starting
+[2026-05-08 21:13:11.580] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:13:11.580] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:13:11.713] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 21:13:11.713] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 21:13:40 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 21:13:40 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (3).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (3).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 21:13:41.029] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 21:13:41 -04 ---
+ok
+[2026-05-08 21:13:41.049] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:13:41.049] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:13:41.051] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 21:13:41.051] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:13:41.051] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-08 21:13:41.117] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+ok
+Refresco completado.
+[2026-05-08 21:13:41.118] [info] Discovered appearance 'dark'
+[2026-05-08 21:13:41.129] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 21:13:41.132] [info] Hyprland IPC starting
+[2026-05-08 21:13:41.133] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:13:41.133] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:13:41.266] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 21:13:41.266] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-08 21:14:21 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 21:14:22 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (11).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (11).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 21:14:22 -04 ---
+[2026-05-08 21:14:22.256] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 21:14:22.279] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:14:22.279] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:14:22.281] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 21:14:22.281] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:14:22.281] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-08 21:14:22.360] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 21:14:22.363] [info] Discovered appearance 'dark'
+Procesando btop PID: 22116
+[2026-05-08 21:14:22.374] [info] Using CSS file /home/johancy/.config/waybar/style.css
+Cerrando ancestro Kitty (PID: 21963)...
+[2026-05-08 21:14:22.380] [info] Hyprland IPC starting
+[2026-05-08 21:14:22.381] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:14:22.381] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:14:22.525] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 21:14:22.525] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+ok
+Refresco completado.
+2026-05-08 21:14:39 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 21:14:39 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (2).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (2).jpg
+[2026-05-08 21:14:39.589] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 21:14:39 -04 ---
+[2026-05-08 21:14:39.594] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:14:39.595] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:14:39.601] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 21:14:39.606] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:14:39.606] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-08 21:14:39.676] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+Procesando btop PID: 22574
+[2026-05-08 21:14:39.678] [info] Discovered appearance 'dark'
+Cerrando ancestro Kitty (PID: 22501)...
+[2026-05-08 21:14:39.689] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 21:14:39.693] [info] Hyprland IPC starting
+[2026-05-08 21:14:39.693] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:14:39.693] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:14:39.834] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 21:14:39.834] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+ok
+Refresco completado.
+2026-05-08 21:14:54 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 21:14:54 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 21:14:54.752] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 21:14:54 -04 ---
+ok
+[2026-05-08 21:14:54.764] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:14:54.764] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:14:54.771] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 21:14:54.772] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:14:54.772] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-08 21:14:54.840] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 21:14:54.842] [info] Discovered appearance 'dark'
+Procesando btop PID: 23817
+Cerrando ancestro Kitty (PID: 23798)...
+[2026-05-08 21:14:54.852] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 21:14:54.856] [info] Hyprland IPC starting
+[2026-05-08 21:14:54.858] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:14:54.858] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:14:54.996] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 21:14:54.996] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+ok
+Refresco completado.
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (3).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (3).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (3).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (11).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (11).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (11).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (2).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (2).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (2).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+--- Matugen Trigger: vie 08 may 2026 21:22:15 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 21:22:15 -04 ---
+ok
+[2026-05-08 21:22:15.528] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 21:22:15.595] [info] Discovered appearance 'dark'
+[2026-05-08 21:22:15.606] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 21:22:15.610] [info] Hyprland IPC starting
+[2026-05-08 21:22:15.618] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:22:15.618] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:22:15.813] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 21:22:15.813] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+2026-05-08 21:23:27 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 21:23:27 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 21:23:27 -04 ---
+[2026-05-08 21:23:27.871] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 21:23:27.889] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:23:27.889] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:23:27.890] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 21:23:27.891] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:23:27.891] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-08 21:23:27.951] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+Procesando btop PID: 2046
+[2026-05-08 21:23:27.953] [info] Discovered appearance 'dark'
+Cerrando ancestro Kitty (PID: 1890)...
+[2026-05-08 21:23:27.964] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 21:23:27.968] [info] Hyprland IPC starting
+[2026-05-08 21:23:27.968] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:23:27.969] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:23:28.105] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 21:23:28.105] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+ok
+Refresco completado.
+2026-05-08 21:23:45 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 21:23:45 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 21:23:45 -04 ---
+[2026-05-08 21:23:45.799] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-08 21:23:45.817] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:23:45.817] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:23:45.818] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 21:23:45.818] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:23:45.818] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-08 21:23:45.876] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 21:23:45.878] [info] Discovered appearance 'dark'
+Procesando btop PID: 3030
+Cerrando ancestro Kitty (PID: 2956)...
+[2026-05-08 21:23:45.888] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 21:23:45.895] [info] Hyprland IPC starting
+[2026-05-08 21:23:45.897] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:23:45.897] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:23:46.033] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 21:23:46.033] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+ok
+Refresco completado.
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (10).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (7).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg"" post-command
+
+2026-05-08 21:24:30 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: vie 08 may 2026 21:24:30 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+[2026-05-08 21:24:30.487] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: vie 08 may 2026 21:24:30 -04 ---
+ok
+[2026-05-08 21:24:30.508] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:24:30.508] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:24:30.509] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-08 21:24:30.510] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:24:30.510] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-08 21:24:30.566] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+ok
+Refresco completado.
+[2026-05-08 21:24:30.567] [info] Discovered appearance 'dark'
+[2026-05-08 21:24:30.578] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 21:24:30.582] [info] Hyprland IPC starting
+[2026-05-08 21:24:30.582] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:24:30.582] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:24:30.713] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 21:24:30.713] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+--- Matugen Trigger: vie 08 may 2026 21:48:20 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 08 may 2026 21:48:20 -04 ---
+ok
+[2026-05-08 21:48:20.997] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-08 21:48:20.999] [info] Discovered appearance 'dark'
+[2026-05-08 21:48:21.009] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-08 21:48:21.014] [info] Hyprland IPC starting
+[2026-05-08 21:48:21.015] [info] Loading persistent workspaces from Waybar config
+[2026-05-08 21:48:21.015] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-08 21:48:21.222] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-08 21:48:21.222] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+--- Matugen Trigger: sáb 09 may 2026 02:11:04 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: sáb 09 may 2026 02:11:04 -04 ---
+ok
+[2026-05-09 02:11:04.673] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-09 02:11:04.726] [info] Discovered appearance 'dark'
+[2026-05-09 02:11:04.737] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-09 02:11:04.741] [info] Hyprland IPC starting
+[2026-05-09 02:11:04.753] [info] Loading persistent workspaces from Waybar config
+[2026-05-09 02:11:04.753] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-09 02:11:04.953] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-09 02:11:04.953] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
