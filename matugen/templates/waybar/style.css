@@ -34,7 +34,7 @@ window#waybar {
     background-color: alpha({{colors.surface.default.hex}}, 0.7);
     margin: 5px;
     margin-left: 10px;
-    border-radius: 12px;
+    border-radius: 12px 12px 0 0;
     border-bottom: 2px solid {{colors.primary.default.hex}};
 }
 
@@ -76,7 +76,7 @@ window#waybar {
     border-bottom: 2px solid {{colors.primary.default.hex}};
     margin: 5px;
     padding: 0 15px;
-    border-radius: 12px;
+    border-radius: 12px 12px 0 0;
     color: {{colors.primary.default.hex}};
     font-weight: bold;
     transition: all 0.3s ease;

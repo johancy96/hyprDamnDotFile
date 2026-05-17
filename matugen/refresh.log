@@ -2380,3 +2380,1212 @@ CSS reload success: true
 Terminado                  clipse -kill >> $LOG 2>&1
 ok
 Refresco completado.
+--- Matugen Trigger: mar 12 may 2026 15:39:25 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+ERROR: La imagen no existe o la ruta es inválida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+--- Refresco Global: mar 12 may 2026 15:39:25 -04 ---
+ok
+[2026-05-12 15:39:25.785] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 15:39:25.787] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 15:39:25.793] [info] Hyprland IPC starting
+[2026-05-12 15:39:25.793] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 15:39:25.793] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+
+** (waybar:1120): WARNING **: 15:39:25.991: Status Notifier Item with bus name ':1.26' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 15:39:26.040] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 15:39:26.040] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-12 17:10:53.561] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 17:10:53.571] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 17:10:53.571] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-12 17:12:36.963] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 17:12:36.971] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 17:12:36.971] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-12 18:16:48.204] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:16:48.214] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:16:48.214] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: mar 12 may 2026 18:16:54 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+ERROR: La imagen no existe o la ruta es inválida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+--- Refresco Global: mar 12 may 2026 18:16:54 -04 ---
+ok
+[2026-05-12 18:16:54.039] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:16:54.050] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:16:54.050] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-12 18:16:54.112] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 18:16:54.114] [info] Using CSS file /home/johancy/.config/waybar/style.css
+ok
+Refresco completado.
+[2026-05-12 18:16:54.118] [info] Hyprland IPC starting
+[2026-05-12 18:16:54.118] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:16:54.118] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:59270): WARNING **: 18:16:54.248: Status Notifier Item with bus name ':1.26' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 18:16:54.252] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 18:16:54.252] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-12 18:16:54.252] [error] Item '': No icon name or pixmap given.
+Gdk-Message: 18:35:57.959: Error reading events from display: Tubería rota
+--- Matugen Trigger: mar 12 may 2026 18:36:08 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+ERROR: La imagen no existe o la ruta es inválida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+--- Refresco Global: mar 12 may 2026 18:36:08 -04 ---
+ok
+[2026-05-12 18:36:08.191] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 18:36:08.484] [info] Discovered appearance 'dark'
+[2026-05-12 18:36:08.498] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 18:36:08.502] [info] Hyprland IPC starting
+[2026-05-12 18:36:08.503] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:36:08.503] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:63582): WARNING **: 18:36:08.645: Status Notifier Item with bus name ':1.248' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 18:36:08.648] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 18:36:08.648] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-12 18:36:08.648] [error] Item '': No icon name or pixmap given.
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-12 18:38:47.261] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:38:47.273] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:38:47.274] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-12 18:38:47.284] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:38:47.284] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:38:47.284] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-12 18:44:04.884] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:44:04.897] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:44:04.897] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-12 18:44:04.932] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:44:04.945] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:44:04.945] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Matugen Trigger: mar 12 may 2026 18:44:11 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+ERROR: La imagen no existe o la ruta es inválida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+--- Refresco Global: mar 12 may 2026 18:44:11 -04 ---
+ok
+[2026-05-12 18:44:11.318] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:44:11.326] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:44:11.326] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-12 18:44:11.411] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 18:44:11.413] [info] Discovered appearance 'dark'
+[2026-05-12 18:44:11.425] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 18:44:11.429] [info] Hyprland IPC starting
+[2026-05-12 18:44:11.430] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:44:11.430] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:66841): WARNING **: 18:44:11.560: Status Notifier Item with bus name ':1.248' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 18:44:11.594] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 18:44:11.594] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: mar 12 may 2026 18:49:40 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+ERROR: La imagen no existe o la ruta es inválida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+--- Refresco Global: mar 12 may 2026 18:49:40 -04 ---
+ok
+[2026-05-12 18:49:41.054] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 18:49:41.198] [info] Discovered appearance 'dark'
+[2026-05-12 18:49:41.214] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 18:49:41.221] [info] Hyprland IPC starting
+[2026-05-12 18:49:41.223] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:49:41.223] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:1167): WARNING **: 18:49:41.469: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 18:49:41.474] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 18:49:41.474] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-12 18:49:41.474] [error] Item '': No icon name or pixmap given.
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+--- Matugen Trigger: mar 12 may 2026 18:51:42 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+ERROR: La imagen no existe o la ruta es inválida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+--- Refresco Global: mar 12 may 2026 18:51:42 -04 ---
+ok
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-12 18:51:42.966] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 18:51:42.968] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-12 18:51:42.980] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 18:51:42.987] [info] Hyprland IPC starting
+[2026-05-12 18:51:42.988] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:51:42.988] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:3058): WARNING **: 18:51:43.116: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 18:51:43.148] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 18:51:43.148] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-12 18:53:57 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: mar 12 may 2026 18:53:58 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+[2026-05-12 18:53:58.110] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+Matugen ejecutado con éxito.
+--- Refresco Global: mar 12 may 2026 18:53:58 -04 ---
+ok
+[2026-05-12 18:53:58.126] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:53:58.126] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-12 18:53:58.134] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:53:58.134] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:53:58.134] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-12 18:53:58.194] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 18:53:58.196] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-12 18:53:58.208] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 18:53:58.211] [info] Hyprland IPC starting
+[2026-05-12 18:53:58.212] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:53:58.212] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:3726): WARNING **: 18:53:58.340: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 18:53:58.343] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 18:53:58.343] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-12 18:53:58.343] [error] Item '': No icon name or pixmap given.
+2026-05-12 18:54:00 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: mar 12 may 2026 18:54:00 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (6).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (6).jpg
+Matugen ejecutado con éxito.
+[2026-05-12 18:54:00.364] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: mar 12 may 2026 18:54:00 -04 ---
+ok
+[2026-05-12 18:54:00.388] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:54:00.388] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-12 18:54:00.389] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:54:00.389] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:54:00.389] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-12 18:54:00.448] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 18:54:00.451] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-12 18:54:00.463] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 18:54:00.467] [info] Hyprland IPC starting
+[2026-05-12 18:54:00.467] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:54:00.467] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:3881): WARNING **: 18:54:00.595: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 18:54:00.598] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 18:54:00.598] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-12 18:54:00.598] [error] Item '': No icon name or pixmap given.
+2026-05-12 18:54:01 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: mar 12 may 2026 18:54:01 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Matugen ejecutado con éxito.
+[2026-05-12 18:54:01.682] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: mar 12 may 2026 18:54:01 -04 ---
+ok
+[2026-05-12 18:54:01.696] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:54:01.696] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-12 18:54:01.703] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:54:01.703] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:54:01.704] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-12 18:54:01.763] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 18:54:01.765] [info] Discovered appearance 'dark'
+ok
+Refresco completado.
+[2026-05-12 18:54:01.777] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 18:54:01.780] [info] Hyprland IPC starting
+[2026-05-12 18:54:01.781] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:54:01.781] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:4033): WARNING **: 18:54:01.909: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 18:54:01.942] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 18:54:01.942] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (6).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (6).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (6).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (7).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg"" post-command
+
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+2026-05-12 18:55:16 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: mar 12 may 2026 18:55:16 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+[2026-05-12 18:55:16.551] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+Matugen ejecutado con éxito.
+--- Refresco Global: mar 12 may 2026 18:55:16 -04 ---
+ok
+[2026-05-12 18:55:16.568] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:55:16.568] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-12 18:55:16.578] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 18:55:16.578] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:55:16.578] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+[2026-05-12 18:55:16.636] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+ok
+Refresco completado.
+[2026-05-12 18:55:16.639] [info] Discovered appearance 'dark'
+[2026-05-12 18:55:16.650] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 18:55:16.653] [info] Hyprland IPC starting
+[2026-05-12 18:55:16.654] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 18:55:16.654] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:5981): WARNING **: 18:55:16.781: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 18:55:16.813] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 18:55:16.813] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
+--- Matugen Trigger: mar 12 may 2026 19:07:24 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+[2026-05-12 19:07:24.115] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: mar 12 may 2026 19:07:24 -04 ---
+ok
+[2026-05-12 19:07:24.138] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 19:07:24.138] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-12 19:07:24.139] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-12 19:07:24.140] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 19:07:24.140] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-12 19:07:24.203] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 19:07:24.206] [info] Discovered appearance 'dark'
+[2026-05-12 19:07:24.221] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 19:07:24.225] [info] Hyprland IPC starting
+[2026-05-12 19:07:24.225] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 19:07:24.225] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:18557): WARNING **: 19:07:24.355: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 19:07:24.359] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 19:07:24.359] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-12 19:07:24.359] [error] Item '': No icon name or pixmap given.
+--- Matugen Trigger: mar 12 may 2026 21:26:20 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: mar 12 may 2026 21:26:20 -04 ---
+ok
+[2026-05-12 21:26:20.261] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-12 21:26:20.263] [info] Discovered appearance 'dark'
+[2026-05-12 21:26:20.282] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-12 21:26:20.331] [info] Hyprland IPC starting
+[2026-05-12 21:26:20.332] [info] Loading persistent workspaces from Waybar config
+[2026-05-12 21:26:20.332] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:1239): WARNING **: 21:26:20.524: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-12 21:26:20.529] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-12 21:26:20.529] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-12 21:26:20.529] [error] Item '': No icon name or pixmap given.
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+
+** (waybar:1239): WARNING **: 00:30:22.950: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 00:30:22.960] [error] Item 'xjemulator': Could not find an icon named 'xjemulator' and no pixmap given.
+
+** (waybar:1239): WARNING **: 00:31:06.857: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 01:12:01.302: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 01:12:01.303] [error] Item 'xjemulator': Could not find an icon named 'xjemulator' and no pixmap given.
+
+** (waybar:1239): WARNING **: 01:12:24.505: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 01:15:11.148: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 01:15:11.149] [error] Item 'xjemulator': Could not find an icon named 'xjemulator' and no pixmap given.
+
+** (waybar:1239): WARNING **: 01:16:43.358: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 01:17:20.099: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 01:17:20.100] [error] Item 'xjemulator': Could not find an icon named 'xjemulator' and no pixmap given.
+
+** (waybar:1239): WARNING **: 01:17:35.339: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 01:19:06.423: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 01:19:06.424] [error] Item 'xjemulator': Could not find an icon named 'xjemulator' and no pixmap given.
+
+** (waybar:1239): WARNING **: 01:20:12.561: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 01:20:12.562] [error] Item 'xjemulator': Could not find an icon named 'xjemulator' and no pixmap given.
+
+** (waybar:1239): WARNING **: 01:20:24.583: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 01:22:27.386: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 01:22:27.388] [error] Item 'xjemulator': Could not find an icon named 'xjemulator' and no pixmap given.
+
+** (waybar:1239): WARNING **: 01:22:53.442: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 01:26:42.410: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 01:26:42.411] [error] Item 'xjemulator': Could not find an icon named 'xjemulator' and no pixmap given.
+
+** (waybar:1239): WARNING **: 01:27:31.262: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 01:28:03.322: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 01:28:03.323] [error] Item 'xjemulator': Could not find an icon named 'xjemulator' and no pixmap given.
+
+** (waybar:1239): WARNING **: 01:28:28.278: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 01:30:20.393: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 01:30:20.394] [error] Item 'xjemulator': Could not find an icon named 'xjemulator' and no pixmap given.
+
+** (waybar:1239): WARNING **: 01:30:30.813: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 01:56:03.266: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+sh: línea 1: activate: orden no encontrada
+
+** (waybar:1239): WARNING **: 02:51:26.591: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 02:54:40.633: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 03:05:29.322: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 03:08:25.331: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 03:16:44.120: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 03:24:11.203: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 03:26:28.312: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 03:31:20.478: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 03:32:23.948: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1239): WARNING **: 03:33:19.698: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+--- Matugen Trigger: mié 13 may 2026 14:27:16 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: mié 13 may 2026 14:27:16 -04 ---
+ok
+[2026-05-13 14:27:16.670] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-13 14:27:16.683] [info] Discovered appearance 'dark'
+[2026-05-13 14:27:16.703] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-13 14:27:16.710] [info] Hyprland IPC starting
+[2026-05-13 14:27:16.711] [info] Loading persistent workspaces from Waybar config
+[2026-05-13 14:27:16.711] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:1225): WARNING **: 14:27:16.940: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-13 14:27:16.945] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-13 14:27:16.945] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-13 14:27:16.945] [error] Item '': No icon name or pixmap given.
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+
+** (waybar:1225): WARNING **: 14:43:06.807: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 14:43:40.595: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 14:43:46.571: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 14:44:23.715: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+
+** (waybar:1225): WARNING **: 17:27:35.271: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 17:28:37.965: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 17:45:48.136: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 17:47:01.452: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 17:56:51.082: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 17:58:18.248: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:02:30.533: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:03:17.243: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:05:50.162: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:06:38.193: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:17:00.283: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:18:33.279: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:27:14.282: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:28:46.197: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:38:29.150: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:39:21.785: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:44:13.791: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:46:13.014: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:47:05.843: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 18:49:59.967: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 19:24:55.830: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 19:25:37.873: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 19:30:03.916: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 19:30:58.615: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 20:10:44.137: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 20:12:38.935: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 20:46:28.608: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 20:49:27.590: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 21:57:20.691: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 21:58:49.319: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 22:00:20.981: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 22:04:40.731: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 22:08:21.677: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 22:09:54.170: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 22:47:14.317: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 22:48:24.645: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 22:57:44.863: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 22:59:00.397: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 23:09:42.019: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 23:10:47.255: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 23:17:01.230: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 23:26:03.871: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 23:36:44.398: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 23:51:06.563: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 00:04:06.349: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 00:05:30.463: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 00:07:54.248: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 00:28:30.894: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 00:41:02.830: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 00:54:50.524: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 00:56:06.338: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 00:58:54.328: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 01:01:04.482: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 01:01:30.290: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 01:03:48.664: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 01:04:14.098: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 01:25:23.592: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1225): WARNING **: 01:25:57.002: Status Notifier Item with bus name ':1.45' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+--- Matugen Trigger: jue 14 may 2026 15:52:30 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: jue 14 may 2026 15:52:30 -04 ---
+ok
+[2026-05-14 15:52:30.478] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-14 15:52:30.510] [info] Discovered appearance 'dark'
+[2026-05-14 15:52:30.537] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-14 15:52:30.541] [info] Hyprland IPC starting
+[2026-05-14 15:52:30.547] [info] Loading persistent workspaces from Waybar config
+[2026-05-14 15:52:30.547] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:1218): WARNING **: 15:52:30.727: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-14 15:52:30.733] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-14 15:52:30.733] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-14 15:52:30.733] [error] Item '': No icon name or pixmap given.
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+
+** (waybar:1218): WARNING **: 17:38:34.179: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:1218): Gtk-CRITICAL **: 17:38:34.183: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 17:38:34.183: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 17:38:34.272: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 17:38:34.272: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 17:38:40.498: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 17:38:40.498: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+** (waybar:1218): WARNING **: 17:40:28.772: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1218): WARNING **: 02:51:51.014: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:1218): Gtk-CRITICAL **: 02:51:51.043: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 02:51:51.043: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 02:51:51.106: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 02:51:51.106: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 02:51:57.354: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 02:51:57.354: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+** (waybar:1218): WARNING **: 03:01:38.908: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1218): WARNING **: 03:01:45.996: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:1218): Gtk-CRITICAL **: 03:01:46.025: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 03:01:46.025: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 03:01:46.093: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 03:01:46.093: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 03:01:52.119: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 03:01:52.119: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+** (waybar:1218): WARNING **: 03:10:37.922: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1218): WARNING **: 03:13:34.439: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:1218): Gtk-CRITICAL **: 03:13:34.550: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 03:13:34.550: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 03:13:35.792: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 03:13:35.792: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 03:13:37.529: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1218): Gtk-CRITICAL **: 03:13:37.530: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+** (waybar:1218): WARNING **: 03:13:48.924: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+--- Matugen Trigger: vie 15 may 2026 07:40:00 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 15 may 2026 07:40:00 -04 ---
+ok
+[2026-05-15 07:40:00.459] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-15 07:40:00.483] [info] Discovered appearance 'dark'
+[2026-05-15 07:40:00.508] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-15 07:40:00.515] [info] Hyprland IPC starting
+[2026-05-15 07:40:00.516] [info] Loading persistent workspaces from Waybar config
+[2026-05-15 07:40:00.516] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:1240): WARNING **: 07:40:00.705: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-15 07:40:00.740] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-15 07:40:00.740] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+
+** (waybar:1240): WARNING **: 08:09:05.111: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:1240): Gtk-CRITICAL **: 08:09:05.199: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 08:09:05.199: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 08:09:06.357: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 08:09:06.357: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 08:09:08.186: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 08:09:08.186: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+** (waybar:1240): WARNING **: 08:24:59.530: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1240): WARNING **: 10:31:06.330: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:1240): Gtk-CRITICAL **: 10:31:06.417: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 10:31:06.417: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 10:31:07.550: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 10:31:07.550: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 10:31:09.269: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 10:31:09.269: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+** (waybar:1240): WARNING **: 10:32:36.599: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:1240): WARNING **: 13:07:07.103: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:1240): Gtk-CRITICAL **: 13:07:07.133: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 13:07:07.133: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 13:07:07.194: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 13:07:07.194: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 13:07:08.569: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 13:07:08.569: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 13:07:10.278: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1240): Gtk-CRITICAL **: 13:07:10.278: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+** (waybar:1240): WARNING **: 13:07:16.830: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+--- Matugen Trigger: vie 15 may 2026 17:54:15 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: vie 15 may 2026 17:54:16 -04 ---
+ok
+[2026-05-15 17:54:16.179] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-15 17:54:16.193] [info] Discovered appearance 'dark'
+[2026-05-15 17:54:16.219] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-15 17:54:16.223] [info] Hyprland IPC starting
+[2026-05-15 17:54:16.229] [info] Loading persistent workspaces from Waybar config
+[2026-05-15 17:54:16.229] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-15 17:54:16.425] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-15 17:54:16.425] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+
+** (waybar:1271): WARNING **: 17:54:16.426: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+
+** (waybar:1271): WARNING **: 18:05:55.963: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:1271): Gtk-CRITICAL **: 18:05:55.993: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1271): Gtk-CRITICAL **: 18:05:55.993: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1271): Gtk-CRITICAL **: 18:05:56.051: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1271): Gtk-CRITICAL **: 18:05:56.051: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1271): Gtk-CRITICAL **: 18:05:57.513: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1271): Gtk-CRITICAL **: 18:05:57.513: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1271): Gtk-CRITICAL **: 18:05:59.333: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:1271): Gtk-CRITICAL **: 18:05:59.333: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+** (waybar:1271): WARNING **: 18:06:07.865: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+--- Matugen Trigger: sáb 16 may 2026 16:42:17 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: sáb 16 may 2026 16:42:18 -04 ---
+ok
+[2026-05-16 16:42:18.088] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-16 16:42:18.108] [info] Discovered appearance 'dark'
+[2026-05-16 16:42:18.132] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-16 16:42:18.137] [info] Hyprland IPC starting
+[2026-05-16 16:42:18.145] [info] Loading persistent workspaces from Waybar config
+[2026-05-16 16:42:18.145] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:1237): WARNING **: 16:42:18.334: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-16 16:42:18.339] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-16 16:42:18.339] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-16 16:42:18.339] [error] Item '': No icon name or pixmap given.
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+                                                               --- Matugen Trigger: sáb 16 may 2026 20:02:09 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: sáb 16 may 2026 20:02:09 -04 ---
+ok
+[2026-05-16 20:02:09.582] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-16 20:02:09.602] [info] Discovered appearance 'dark'
+[2026-05-16 20:02:09.632] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-16 20:02:09.671] [info] Hyprland IPC starting
+[2026-05-16 20:02:09.672] [info] Loading persistent workspaces from Waybar config
+[2026-05-16 20:02:09.672] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:1276): WARNING **: 20:02:09.857: Status Notifier Item with bus name ':1.44' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-16 20:02:09.862] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-16 20:02:09.862] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-16 20:02:09.862] [error] Item '': No icon name or pixmap given.
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+--- Matugen Trigger: dom 17 may 2026 15:08:27 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: dom 17 may 2026 15:08:27 -04 ---
+ok
+[2026-05-17 15:08:28.087] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 15:08:28.089] [info] Discovered appearance 'dark'
+[2026-05-17 15:08:28.115] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 15:08:28.122] [info] Hyprland IPC starting
+[2026-05-17 15:08:28.124] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 15:08:28.124] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:1258): WARNING **: 15:08:28.354: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 15:08:28.360] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 15:08:28.360] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-17 15:08:28.360] [error] Item '': No icon name or pixmap given.
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:20:27.790] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:20:27.793] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:20:27.793] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:22:30.598] [info] Reloading...
+[2026-05-17 19:22:30.602] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:22:30.624] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:22:30.628] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:22:30.628] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:22:30.751] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:22:30.751] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+
+** (waybar:1258): WARNING **: 19:22:30.751: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+--- Matugen Trigger: dom 17 may 2026 19:24:06 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+[2026-05-17 19:24:06.231] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+Matugen ejecutado con éxito.
+[2026-05-17 19:24:06.234] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:06.234] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Refresco Global: dom 17 may 2026 19:24:06 -04 ---
+[2026-05-17 19:24:06.242] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-17 19:24:06.246] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:06.246] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:24:06.333] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:24:06.335] [info] Discovered appearance 'dark'
+[2026-05-17 19:24:06.358] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:24:06.362] [info] Hyprland IPC starting
+[2026-05-17 19:24:06.362] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:06.362] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:48130): WARNING **: 19:24:06.491: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:24:06.524] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:24:06.524] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: dom 17 may 2026 19:24:48 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+[2026-05-17 19:24:48.881] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: dom 17 may 2026 19:24:48 -04 ---
+[2026-05-17 19:24:48.885] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:48.885] [info] Loading persistent workspaces from Hyprland workspace rules
+ok
+[2026-05-17 19:24:48.895] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:24:48.896] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:48.896] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:24:48.978] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:24:48.979] [info] Discovered appearance 'dark'
+[2026-05-17 19:24:49.001] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:24:49.005] [info] Hyprland IPC starting
+[2026-05-17 19:24:49.005] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:49.005] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:48307): WARNING **: 19:24:49.133: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:24:49.137] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:24:49.137] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-17 19:24:49.137] [error] Item '': No icon name or pixmap given.
+--- Matugen Trigger: dom 17 may 2026 19:24:57 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+--- Refresco Global: dom 17 may 2026 19:24:57 -04 ---
+[2026-05-17 19:24:57.859] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:24:57.862] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:57.862] [info] Loading persistent workspaces from Hyprland workspace rules
+ok
+[2026-05-17 19:24:57.869] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:24:57.869] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:57.869] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:24:57.952] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:24:57.953] [info] Discovered appearance 'dark'
+[2026-05-17 19:24:57.976] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:24:57.979] [info] Hyprland IPC starting
+[2026-05-17 19:24:57.979] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:57.979] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:48442): WARNING **: 19:24:58.106: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:24:58.137] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:24:58.137] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+--- Matugen Trigger: dom 17 may 2026 19:24:59 -04 ---
+Imagen recibida: 
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+[2026-05-17 19:24:59.255] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+Matugen ejecutado con éxito.
+[2026-05-17 19:24:59.258] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:59.258] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Refresco Global: dom 17 may 2026 19:24:59 -04 ---
+[2026-05-17 19:24:59.267] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-17 19:24:59.269] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:59.269] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:24:59.351] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:24:59.353] [info] Discovered appearance 'dark'
+[2026-05-17 19:24:59.374] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:24:59.377] [info] Hyprland IPC starting
+[2026-05-17 19:24:59.378] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:24:59.378] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:48551): WARNING **: 19:24:59.504: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:24:59.507] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:24:59.507] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-17 19:24:59.507] [error] Item '': No icon name or pixmap given.
+[2026-05-17 19:31:29.157] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:31:29.160] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:31:29.160] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:31:41.500] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:31:41.503] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:31:41.504] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:31:49.893] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:31:49.897] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:31:49.897] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:32:19.296] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:32:19.298] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:32:19.299] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:32:38.138] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:32:38.142] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:32:38.142] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:32:43.987] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:32:43.990] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:32:43.990] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:33:02.021] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2026-05-17 19:33:02.024] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:33:02.024] [info] Loading persistent workspaces from Hyprland workspace rules
+2026-05-17 19:37:32 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: dom 17 may 2026 19:37:33 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+[2026-05-17 19:37:33.264] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+Matugen ejecutado con éxito.
+--- Refresco Global: dom 17 may 2026 19:37:33 -04 ---
+[2026-05-17 19:37:33.267] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:33.267] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:37:33.276] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-17 19:37:33.279] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:33.279] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:37:33.362] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:37:33.363] [info] Discovered appearance 'dark'
+[2026-05-17 19:37:33.385] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:37:33.389] [info] Hyprland IPC starting
+[2026-05-17 19:37:33.389] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:33.390] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:51794): WARNING **: 19:37:33.519: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:37:33.523] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:37:33.523] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-17 19:37:33.523] [error] Item '': No icon name or pixmap given.
+2026-05-17 19:37:35 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: dom 17 may 2026 19:37:36 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (4).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (4).jpg
+[2026-05-17 19:37:36.285] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+Matugen ejecutado con éxito.
+[2026-05-17 19:37:36.288] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:36.289] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Refresco Global: dom 17 may 2026 19:37:36 -04 ---
+[2026-05-17 19:37:36.296] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-17 19:37:36.299] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:36.299] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:37:36.385] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:37:36.386] [info] Discovered appearance 'dark'
+[2026-05-17 19:37:36.408] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:37:36.412] [info] Hyprland IPC starting
+[2026-05-17 19:37:36.412] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:36.413] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:51951): WARNING **: 19:37:36.541: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:37:36.575] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:37:36.575] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-17 19:37:37 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: dom 17 may 2026 19:37:38 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Matugen ejecutado con éxito.
+[2026-05-17 19:37:38.144] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: dom 17 may 2026 19:37:38 -04 ---
+[2026-05-17 19:37:38.147] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:38.147] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:37:38.153] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-17 19:37:38.156] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:38.156] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:37:38.241] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:37:38.243] [info] Discovered appearance 'dark'
+[2026-05-17 19:37:38.265] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:37:38.268] [info] Hyprland IPC starting
+[2026-05-17 19:37:38.269] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:38.269] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:52092): WARNING **: 19:37:38.398: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:37:38.432] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:37:38.432] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-17 19:37:42 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: dom 17 may 2026 19:37:42 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (4).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (4).jpg
+[2026-05-17 19:37:43.039] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+Matugen ejecutado con éxito.
+[2026-05-17 19:37:43.042] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:43.042] [info] Loading persistent workspaces from Hyprland workspace rules
+--- Refresco Global: dom 17 may 2026 19:37:43 -04 ---
+[2026-05-17 19:37:43.051] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-17 19:37:43.055] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:43.055] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:37:43.141] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:37:43.143] [info] Discovered appearance 'dark'
+[2026-05-17 19:37:43.165] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:37:43.168] [info] Hyprland IPC starting
+[2026-05-17 19:37:43.169] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:43.169] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:52234): WARNING **: 19:37:43.299: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:37:43.302] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:37:43.302] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-17 19:37:43.302] [error] Item '': No icon name or pixmap given.
+2026-05-17 19:37:44 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: dom 17 may 2026 19:37:44 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (11).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (11).jpg
+Matugen ejecutado con éxito.
+[2026-05-17 19:37:45.021] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: dom 17 may 2026 19:37:45 -04 ---
+[2026-05-17 19:37:45.025] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:45.025] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:37:45.031] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-17 19:37:45.034] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:45.034] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:37:45.118] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:37:45.119] [info] Discovered appearance 'dark'
+[2026-05-17 19:37:45.141] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:37:45.145] [info] Hyprland IPC starting
+[2026-05-17 19:37:45.146] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:45.146] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:52387): WARNING **: 19:37:45.275: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:37:45.309] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:37:45.309] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-17 19:37:49 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: dom 17 may 2026 19:37:49 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (6).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (6).jpg
+Matugen ejecutado con éxito.
+[2026-05-17 19:37:49.735] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: dom 17 may 2026 19:37:49 -04 ---
+[2026-05-17 19:37:49.739] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:49.739] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:37:49.744] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-17 19:37:49.747] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:49.747] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:37:49.833] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:37:49.834] [info] Discovered appearance 'dark'
+[2026-05-17 19:37:49.857] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:37:49.860] [info] Hyprland IPC starting
+[2026-05-17 19:37:49.861] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:49.861] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:52530): WARNING **: 19:37:49.992: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:37:50.025] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:37:50.025] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-17 19:37:52 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: dom 17 may 2026 19:37:52 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Matugen ejecutado con éxito.
+[2026-05-17 19:37:52.641] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: dom 17 may 2026 19:37:52 -04 ---
+[2026-05-17 19:37:52.644] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:52.644] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:37:52.649] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-17 19:37:52.652] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:52.652] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:37:52.736] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:37:52.737] [info] Discovered appearance 'dark'
+[2026-05-17 19:37:52.761] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:37:52.764] [info] Hyprland IPC starting
+[2026-05-17 19:37:52.765] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:52.765] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:52671): WARNING **: 19:37:52.895: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:37:52.928] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:37:52.928] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+2026-05-17 19:37:55 - [swaybg-1.2.2/main.c:332] Found config * for output DP-1 (VIE JP165-240G )
+--- Matugen Trigger: dom 17 may 2026 19:37:55 -04 ---
+Imagen recibida: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg
+Ruta corregida de config.ini: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Matugen ejecutado con éxito.
+[2026-05-17 19:37:55.339] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+--- Refresco Global: dom 17 may 2026 19:37:55 -04 ---
+[2026-05-17 19:37:55.343] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:55.343] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-05-17 19:37:55.350] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+ok
+[2026-05-17 19:37:55.353] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:55.353] [info] Loading persistent workspaces from Hyprland workspace rules
+CSS reload success: true
+Terminado                  clipse -kill >> $LOG 2>&1
+ok
+Refresco completado.
+[2026-05-17 19:37:55.439] [info] Using configuration file /home/johancy/.config/waybar/config.jsonc
+[2026-05-17 19:37:55.440] [info] Discovered appearance 'dark'
+[2026-05-17 19:37:55.462] [info] Using CSS file /home/johancy/.config/waybar/style.css
+[2026-05-17 19:37:55.465] [info] Hyprland IPC starting
+[2026-05-17 19:37:55.467] [info] Loading persistent workspaces from Waybar config
+[2026-05-17 19:37:55.467] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:52815): WARNING **: 19:37:55.595: Status Notifier Item with bus name ':1.42' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2026-05-17 19:37:55.598] [warning] Requested height: 40 is less than the minimum height: 46 required by the modules
+[2026-05-17 19:37:55.598] [info] Bar configured (width: 1920, height: 46) for output: DP-1
+[2026-05-17 19:37:55.598] [error] Item '': No icon name or pixmap given.
+File '/home/johancy/.config/waypaper/keybindings.ini' does not exist
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (10).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (10).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (10).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (4).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (4).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (4).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (7).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (4).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (4).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (4).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (11).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (11).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (11).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (6).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (6).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (6).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (7).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (7).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (7).jpg"" post-command
+
+Selected file: /mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080 (5).jpg
+Sent swaybg command to set wallpaperbetter.com_1920x1080 (5).jpg on All display
+
+Executed "~/.config/waypaper/post_command.sh "/mnt/Respaldos/wallpapers/wallpaperbetter.com_1920x1080\ (5).jpg"" post-command
+
